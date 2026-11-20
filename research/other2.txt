@@ -1,0 +1,74 @@
+# sport|title|date|tz|start|game_clock|clock|basis|unc|wiki|commons_query|numtime
+Tennis|Djokovic beats Musetti after 3am, the latest finish at Roland Garros|2024-06-02|Europe/Paris|||03:08|R|2|2024 French Open – Men's singles||
+Tennis|Querrey and Sock win a Davis Cup doubles at 4.04am in Madrid|2019-11-21|Europe/Madrid|||04:04|R|3|2019 Davis Cup Finals||
+Tennis|Murray beats Baghdatis at 11.02pm, past the Wimbledon curfew|2012-06-30|Europe/London|||23:02|R|2|2012 Wimbledon Championships – Men's singles||
+Tennis|Muguruza beats Konta at 3.12am after a 12.30am start|2019-01-18|Australia/Melbourne|00:30||03:12|R|3|2019 Australian Open – Women's singles||
+Tennis|Nishikori beats Raonic at 2.26am in New York|2014-09-02|America/New_York|||02:26|R|2|2014 US Open – Men's singles||
+Tennis|Sakkari beats Andreescu at 2.13am, the latest finish in a US Open women's match|2021-09-07|America/New_York|||02:13|R|3|2021 US Open – Women's singles||
+Tennis|Isner and Mahut are stopped for darkness at 59 games all|2010-06-23|Europe/London|||21:10|R|5|Isner–Mahut match at the 2010 Wimbledon Championships||
+Baseball|Mets beat the Braves in 19 innings at 3.55am, with fireworks to follow|1985-07-05|America/New_York|||03:55|R|2|1985 New York Mets season||
+Baseball|The longest game in professional baseball is suspended after 32 innings|1981-04-19|America/New_York|||04:07|R|3|Longest professional baseball game||
+Baseball|Max Muncy ends the longest World Series game in the 18th inning|2018-10-27|America/Los_Angeles|||00:30|R|3|2018 World Series||
+Baseball|Derek Jeter becomes Mr November with a walk off just after midnight|2001-11-01|America/New_York|||00:04|R|3|2001 World Series||
+Baseball|David Ortiz's walk off keeps the Red Sox alive at 1.22am|2004-10-18|America/New_York|||01:22|R|3|2004 American League Championship Series||
+Ice hockey|The Easter Epic: LaFontaine scores in the fourth overtime|1987-04-19|America/New_York|||01:58|R|3|Easter Epic||
+Ice hockey|Keith Primeau ends a five overtime game in Pittsburgh|2000-05-05|America/New_York|||02:35|R|3|2000 Stanley Cup playoffs||
+Ice hockey|Mud Bruneteau ends the longest NHL game in the sixth overtime|1936-03-25|America/Toronto|||02:25|R|3|1936 Stanley Cup playoffs||
+Ice hockey|Petr Nedvěd scores in the fourth overtime|1996-04-25|America/New_York|||02:15|R|3|1996 Stanley Cup playoffs||
+Athletics|Chepngetich wins the midnight marathon in Doha|2019-09-28|Asia/Qatar|23:59|2:32:43|02:32|S|3|2019 World Athletics Championships – Women's marathon||
+Athletics|Desisa wins the men's midnight marathon in Doha|2019-10-06|Asia/Qatar|23:59|2:10:40|02:10|S|3|2019 World Athletics Championships – Men's marathon||
+Triathlon|Tokyo's Olympic triathlon false start: a camera boat blocks half the field|2021-07-26|Asia/Tokyo|06:30|Start|06:30|S|2|Triathlon at the 2020 Summer Olympics – Men's||
+Triathlon|Blummenfelt wins Olympic triathlon gold|2021-07-26|Asia/Tokyo|06:30|1:45:04|08:22|E|8|Triathlon at the 2020 Summer Olympics – Men's||
+Triathlon|Flora Duffy wins Bermuda's first Olympic gold|2021-07-27|Asia/Tokyo|06:45|1:55:36|08:41|S|4|Triathlon at the 2020 Summer Olympics – Women's||
+Triathlon|Britain win the first Olympic mixed relay triathlon|2021-07-31|Asia/Tokyo|07:30|1:23:41|08:54|S|3|Triathlon at the 2020 Summer Olympics – Mixed relay||
+Triathlon|Alistair Brownlee wins gold in Hyde Park|2012-08-07|Europe/London|11:30|1:46:25|13:16|S|3|Triathlon at the 2012 Summer Olympics – Men's||
+Triathlon|The Brownlee brothers finish first and second in Rio|2016-08-18|America/Sao_Paulo|11:00|1:45:01|12:45|S|3|Triathlon at the 2016 Summer Olympics – Men's||
+Triathlon|Alex Yee overtakes Hayden Wilde in the final 400 metres|2024-07-31|Europe/Paris|10:45|1:43:33|12:28|S|4|Triathlon at the 2024 Summer Olympics – Men's||
+Triathlon|The Iron War: Mark Allen breaks Dave Scott at Kona|1989-10-14|Pacific/Honolulu|07:00|8:09:15|15:09|S|4|Iron War||
+Triathlon|Julie Moss crawls to the Ironman finish line|1982-02-06|Pacific/Honolulu|07:00|11:10:09|18:10|S|6|Julie Moss||
+Ultrarunning|Jasmin Paris finishes the Barkley Marathons with 99 seconds to spare|2024-03-22|America/New_York|05:17|59:58:21|17:15|S|3|Barkley Marathons||
+Ultrarunning|Jim Walmsley breaks the Western States record|2019-06-29|America/Los_Angeles|05:00|14:09:28|19:09|S|2|Western States Endurance Run||
+Ultrarunning|Courtney Dauwalter breaks the Western States record by over an hour|2023-06-24|America/Los_Angeles|05:00|15:29:33|20:29|S|2|Western States Endurance Run||
+Ultrarunning|Kilian Jornet wins UTMB in under 20 hours|2022-08-27|Europe/Paris|18:00|19:49:30|13:49|S|3|Ultra-Trail du Mont-Blanc||
+Ultrarunning|Courtney Dauwalter completes the Western States, Hardrock and UTMB treble|2023-09-02|Europe/Paris|18:00|23:29:14|17:29|S|3|Ultra-Trail du Mont-Blanc||
+Ultrarunning|Tete Dijana breaks the Comrades down record|2023-06-11|Africa/Johannesburg|05:30|5:13:58|10:43|S|3|Comrades Marathon||
+Athletics|Kosgei breaks Radcliffe's 16 year old marathon record|2019-10-13|America/Chicago|07:30|2:14:04|09:44|S|3|2019 Chicago Marathon||02:14
+Athletics|Chepngetich becomes the first woman under 2:10|2024-10-13|America/Chicago|07:30|2:09:56|09:39|S|3|2024 Chicago Marathon||02:09
+Athletics|Kipchoge lowers his own world record to 2:01:09|2022-09-25|Europe/Berlin|09:15|2:01:09|11:16|S|3|2022 Berlin Marathon||02:01
+Athletics|Assefa takes over two minutes off the women's marathon record|2023-09-24|Europe/Berlin|09:15|2:11:53|11:26|S|3|2023 Berlin Marathon||02:11
+Athletics|Gebrselassie becomes the first man under 2:04|2008-09-28|Europe/Berlin|09:00|2:03:59|11:03|S|3|2008 Berlin Marathon||02:03
+Athletics|Kimetto becomes the first man under 2:03|2014-09-28|Europe/Berlin|08:45|2:02:57|10:47|S|3|2014 Berlin Marathon||02:02
+Athletics|Kipchoge wins a fourth London Marathon in 2:02:37|2019-04-28|Europe/London|10:10|2:02:37|12:12|S|3|2019 London Marathon||
+Athletics|Des Linden wins Boston in the storm|2018-04-16|America/New_York|09:32|2:39:54|12:11|S|3|2018 Boston Marathon||
+Athletics|Meb Keflezighi wins Boston a year after the bombing|2014-04-21|America/New_York|10:00|2:08:37|12:08|S|3|2014 Boston Marathon||
+Athletics|The Duel in the Sun: Salazar holds off Beardsley|1982-04-19|America/New_York|12:00|2:08:52|14:08|S|3|1982 Boston Marathon||
+Athletics|Joan Benoit wins the first women's Olympic marathon|1984-08-05|America/Los_Angeles|08:00|2:24:52|10:24|S|3|Athletics at the 1984 Summer Olympics – Women's marathon||
+Athletics|Shalane Flanagan wins New York, the first American woman in 40 years|2017-11-05|America/New_York|09:20|2:26:53|11:46|S|3|2017 New York City Marathon||
+Athletics|Dorando Pietri is helped over the line|1908-07-24|Europe/London|14:33|2:54:46|17:28|S|5|Athletics at the 1908 Summer Olympics – Men's marathon||
+Athletics|The Miracle Mile: Bannister passes Landy as he looks the wrong way|1954-08-07|America/Vancouver||3:58.8|14:30|E|20|Miracle Mile||03:58
+Sailing|Robin Knox Johnston completes the first solo non stop circumnavigation|1969-04-22|Europe/London|||15:25|R|3|Robin Knox-Johnston||
+Sailing|Francis Chichester sails Gipsy Moth IV back into Plymouth|1967-05-28|Europe/London|||20:56|R|5|Francis Chichester||
+Sailing|Jessica Watson, 16, sails into Sydney Harbour|2010-05-15|Australia/Sydney|||13:53|R|4|Jessica Watson||
+Swimming|Gertrude Ederle becomes the first woman to swim the Channel|1926-08-06|Europe/London|07:08|14 hours 34 minutes|21:40|E|8|Gertrude Ederle||
+Swimming|Sarah Thomas completes the first four way Channel swim|2019-09-17|Europe/London||54 hours|06:30|E|15|Sarah Thomas (marathon swimmer)||
+Swimming|Eric the Eel swims his 100 metres alone|2000-09-19|Australia/Sydney|10:00|1:52.72|10:10|E|15|Eric Moussambani||01:52
+Climbing|Caldwell and Jorgeson top out the Dawn Wall|2015-01-14|America/Los_Angeles|||15:25|E|10|Dawn Wall||
+Cricket|Harmison's first ball of the Ashes goes to second slip|2006-11-23|Australia/Brisbane|10:00|First ball|10:00|S|3|2006–07 Ashes series||
+Cricket|Starc bowls Burns with the first ball of the Ashes|2021-12-08|Australia/Brisbane|10:00|First ball|10:00|S|3|2021–22 Ashes series||
+Cricket|Broad takes 8 for 15: Australia all out for 60 before lunch|2015-08-06|Europe/London|11:00|18.3 overs|12:40|E|6|2015 Ashes series||
+Olympics|Seven young athletes light the London cauldron|2012-07-28|Europe/London|21:00|Opening ceremony|00:35|E|10|2012 Summer Olympics opening ceremony||
+Olympics|Li Ning runs around the rim of the Bird's Nest to light the cauldron|2008-08-09|Asia/Shanghai|20:00|Opening ceremony|00:00|E|10|2008 Summer Olympics opening ceremony||
+Olympics|Antonio Rebollo lights the Barcelona cauldron with a flaming arrow|1992-07-25|Europe/Madrid||Opening ceremony|22:40|E|20|1992 Summer Olympics opening ceremony||
+Olympics|Cathy Freeman lights the cauldron in Sydney|2000-09-15|Australia/Sydney||Opening ceremony|23:05|E|20|2000 Summer Olympics opening ceremony||
+Motor racing|Jacky Ickx beats Hans Herrmann by 120 metres after 24 hours|1969-06-15|Europe/Paris|14:00|24 hours|14:00|S|2|1969 24 Hours of Le Mans||
+Motor racing|Mazda's rotary wins Le Mans|1991-06-23|Europe/Paris|16:00|24 hours|16:00|S|2|1991 24 Hours of Le Mans||
+Motor racing|Ferrari win Le Mans on their return after 50 years|2023-06-11|Europe/Paris|16:00|24 hours|16:00|S|2|2023 24 Hours of Le Mans||
+Motor racing|Dan Gurney sprays the champagne, starting a tradition|1967-06-11|Europe/Paris|16:00|24 hours|16:05|E|8|1967 24 Hours of Le Mans||
+Motor racing|Formula One's first night race starts in Singapore|2008-09-28|Asia/Singapore|20:00|Lights out|20:00|S|2|2008 Singapore Grand Prix||
+Motor racing|Senna drives into Prost at the first corner to take the title|1990-10-21|Asia/Tokyo|13:00|First corner|13:00|S|3|1990 Japanese Grand Prix||
+Motor racing|Six cars start the United States Grand Prix|2005-06-19|America/Indiana/Indianapolis|13:00|Lights out|13:00|S|3|2005 United States Grand Prix||
+Horse racing|Michelle Payne becomes the first woman to ride the Melbourne Cup winner|2015-11-03|Australia/Melbourne|15:00|3:23|15:03|S|4|2015 Melbourne Cup||
+Horse racing|Makybe Diva wins a third Melbourne Cup|2005-11-01|Australia/Melbourne|15:10|3:19|15:13|S|5|2005 Melbourne Cup||
+Snooker|Graeme Dott beats Peter Ebdon in the latest finishing Crucible final|2006-05-02|Europe/London|||00:52|R|3|2006 World Snooker Championship||
+Rowing|Pinsent's four win by eight hundredths of a second|2004-08-21|Europe/Athens|||09:30|E|20|Rowing at the 2004 Summer Olympics – Men's coxless four||
+Rowing|Glover and Stanning win Britain's first gold of London 2012|2012-08-01|Europe/London|11:50|6:55|11:57|E|8|Rowing at the 2012 Summer Olympics – Women's coxless pair||

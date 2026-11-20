@@ -1,0 +1,141 @@
+# sport|title|date|tz|start|game_clock|clock|basis|unc|wiki|commons_query|numtime
+Rugby union|Gareth Edwards finishes "that try" for the Barbarians|1973-01-27|Europe/London|15:00|3rd minute|15:03|S|4|Barbarians v New Zealand (1973)|Barbarians New Zealand 1973 Cardiff|
+Rugby union|Jonah Lomu runs over Mike Catt|1995-06-18|Africa/Johannesburg|15:00|2nd minute|15:03|S|4|1995 Rugby World Cup knockout stage|Jonah Lomu 1995|
+Rugby union|Stransky's drop goal; Mandela hands the cup to Pienaar|1995-06-24|Africa/Johannesburg|15:00|Extra time, 93rd minute|17:00|E|12|1995 Rugby World Cup final|Mandela Pienaar 1995 Rugby World Cup|
+Rugby union|Guscott's drop goal wins the Lions series|1997-06-28|Africa/Johannesburg|17:15|76th minute|18:52|E|8|1997 British Lions tour to South Africa|British Lions 1997 South Africa|
+Rugby union|Wilkinson's drop goal wins the World Cup|2003-11-22|Australia/Sydney|20:00|Extra time, 100th minute|22:18|E|6|2003 Rugby World Cup final|2003 Rugby World Cup Final Wilkinson|
+Rugby union|The Brighton Miracle: Hesketh's try, Japan beat South Africa|2015-09-19|Europe/London|16:45|84th minute|18:38|E|6|2015 Rugby World Cup Pool B|Japan South Africa 2015 Rugby World Cup Brighton|
+Rugby union|England face the haka in a V|2019-10-26|Asia/Tokyo|17:00|Before kick off|16:56|S|3|2019 Rugby World Cup knockout stage|England New Zealand 2019 Rugby World Cup haka|
+Cricket|Warne's Ball of the Century|1993-06-04|Europe/London||First ball in Ashes cricket||U||Ball of the Century|Shane Warne 1993|
+Cricket|Kapil Dev lifts the World Cup at Lord's|1983-06-25|Europe/London||||U||1983 Cricket World Cup final|Kapil Dev 1983 World Cup|
+Cricket|Donald run out: Australia and South Africa tie the semi final|1999-06-17|Europe/London|10:30|49.4 overs||U||1999 Cricket World Cup second semi-final|Australia South Africa 1999 Edgbaston|
+Cricket|Edgbaston: England win by two runs|2005-08-07|Europe/London|10:30|Day 4|12:10|E|10|2005 Ashes series|Edgbaston 2005 Ashes Flintoff Lee|
+Cricket|Dhoni finishes it with a six|2011-04-02|Asia/Kolkata|14:30|48.2 overs|22:45|E|15|2011 Cricket World Cup final|2011 Cricket World Cup Final Dhoni|
+Cricket|Brathwaite hits four sixes in a row: "remember the name"|2016-04-03|Asia/Kolkata|19:00|19.4 overs|22:35|E|15|2016 ICC World Twenty20 final|2016 World Twenty20 Final West Indies|
+Cricket|Super over, boundary countback: England win the World Cup|2019-07-14|Europe/London|10:30|Super over|19:30|E|8|2019 Cricket World Cup final|2019 Cricket World Cup Final Lord's|
+Cricket|Stokes hits the winning four at Headingley|2019-08-25|Europe/London|11:00|Day 4|16:17|E|8|2019 Ashes series|Ben Stokes Headingley 2019|
+Cricket|Pant hits the winning runs: India breach the Gabba|2021-01-19|Australia/Brisbane||Day 5|17:37|E|10|Border–Gavaskar Trophy 2020–21|India Gabba 2021|
+Cricket|Kohli's 82 not out beats Pakistan at the MCG|2022-10-23|Australia/Melbourne|19:00|20th over|22:45|E|15|2022 ICC Men's T20 World Cup|India Pakistan MCG 2022 Kohli|
+Cricket|Lara reaches 400 not out|2004-04-12|America/Antigua||Day 3||U||Brian Lara|Brian Lara 400|04:00
+Tennis|Borg beats McEnroe after the 18 16 tiebreak|1980-07-05|Europe/London|14:00|||U||1980 Wimbledon Championships – Men's singles final|Borg McEnroe 1980 Wimbledon|
+Tennis|Ivanišević wins Wimbledon as a wildcard on People's Monday|2001-07-09|Europe/London||||U||2001 Wimbledon Championships – Men's singles final|Ivanišević 2001 Wimbledon|
+Tennis|Nadal beats Federer in near darkness|2008-07-06|Europe/London|14:00|9 7 in the fifth|21:15|D|2|2008 Wimbledon Championships – Men's singles final|Nadal Federer 2008 Wimbledon final|
+Tennis|Isner beats Mahut 70 68 after 11 hours 5 minutes|2010-06-24|Europe/London||Final set, 138th game|16:47|D|2|Isner–Mahut match at the 2010 Wimbledon Championships|Isner Mahut 2010 scoreboard|
+Tennis|Djokovic outlasts Nadal in 5 hours 53 minutes|2012-01-30|Australia/Melbourne|19:30|7 5 in the fifth|01:37|D|2|2012 Australian Open – Men's singles final|Djokovic Nadal 2012 Australian Open final|
+Tennis|Murray ends Britain's 77 year wait at Wimbledon|2013-07-07|Europe/London|14:00|Fourth championship point|17:24|E|5|2013 Wimbledon Championships – Men's singles final|Murray 2013 Wimbledon final|
+Tennis|Hewitt beats Baghdatis at 4.34am|2008-01-20|Australia/Melbourne|||04:34|D|1|2008 Australian Open – Men's singles|Hewitt 2008 Australian Open|
+Tennis|Murray beats Kokkinakis at 4.05am|2023-01-20|Australia/Melbourne|||04:05|D|1|2023 Australian Open – Men's singles|Murray 2023 Australian Open|
+Tennis|Alcaraz beats Sinner at 2.50am|2022-09-08|America/New_York|||02:50|R|3|2022 US Open – Men's singles|Alcaraz 2022 US Open|
+Tennis|Zverev beats Brooksby at 4.55am, the latest finish on record|2022-02-22|America/Mexico_City|||04:55|D|1|2022 Abierto Mexicano Telcel|Zverev Acapulco 2022|
+Tennis|Djokovic saves two championship points and beats Federer in the first final set tiebreak|2019-07-14|Europe/London|14:00|13 12 in the fifth|19:07|E|5|2019 Wimbledon Championships – Men's singles final|Djokovic Federer 2019 Wimbledon final|
+Tennis|Raducanu wins the US Open as a qualifier|2021-09-11|America/New_York|16:00||18:05|E|10|2021 US Open – Women's singles final|Raducanu 2021 US Open|
+Tennis|Alcaraz saves three championship points to beat Sinner in Paris|2025-06-08|Europe/Paris|15:00|Fifth set tiebreak|20:42|E|10|2025 French Open – Men's singles final|Alcaraz Sinner 2025 French Open final|
+Athletics|Jesse Owens sets or ties six world records in 45 minutes: the first, 100 yards|1935-05-25|America/Detroit|15:15||15:15|D|2|Jesse Owens|Jesse Owens 1935|
+Athletics|Jesse Owens wins the 100 metres in Berlin|1936-08-03|Europe/Berlin|17:00||17:00|E|10|Athletics at the 1936 Summer Olympics – Men's 100 metres|Jesse Owens 1936 Olympics|
+Athletics|Bannister breaks the four minute mile|1954-05-06|Europe/London|18:00|3:59.4|18:04|S|3|Four-minute mile|Roger Bannister 1954 Iffley Road|03:59
+Athletics|Abebe Bikila wins the Rome marathon barefoot|1960-09-10|Europe/Rome|17:30|2:15:16|19:45|S|5|Athletics at the 1960 Summer Olympics – Men's marathon|Abebe Bikila 1960 Rome|02:15
+Athletics|Bob Beamon jumps 8.90 metres|1968-10-18|America/Mexico_City|15:30|First round jump|15:46|E|8|Athletics at the 1968 Summer Olympics – Men's long jump|Bob Beamon 1968|
+Athletics|First London Marathon: Beardsley and Simonsen finish hand in hand|1981-03-29|Europe/London|09:00|2:11:48|11:12|S|3|1981 London Marathon|1981 London Marathon|02:11
+Athletics|Ben Johnson runs 9.79 in Seoul|1988-09-24|Asia/Seoul|13:30|9.79|13:30|S|4|Athletics at the 1988 Summer Olympics – Men's 100 metres|1988 Olympics 100 metres Seoul Johnson|
+Athletics|Michael Johnson runs 19.32 in the gold shoes|1996-08-01|America/New_York|21:00|19.32|21:00|E|10|Athletics at the 1996 Summer Olympics – Men's 200 metres|Michael Johnson 1996 Olympics|19:32
+Athletics|Cathy Freeman wins the 400 metres in Sydney|2000-09-25|Australia/Sydney|20:10|49.11|20:10|S|4|Athletics at the 2000 Summer Olympics – Women's 400 metres|Cathy Freeman 2000 Olympics|
+Athletics|Paula Radcliffe runs 2:15:25 in London|2003-04-13|Europe/London|09:00|2:15:25|11:15|S|3|2003 London Marathon|Paula Radcliffe 2003 London Marathon|02:15
+Athletics|Kelly Holmes completes the 800 and 1500 double|2004-08-28|Europe/Athens|20:30|3:57.90|20:34|E|10|Athletics at the 2004 Summer Olympics – Women's 1500 metres|Kelly Holmes 2004 Olympics|
+Athletics|Bolt runs 9.69 in Beijing, easing up|2008-08-16|Asia/Shanghai|22:30|9.69|22:30|S|4|Athletics at the 2008 Summer Olympics – Men's 100 metres|Usain Bolt 2008 Olympics 100m|
+Athletics|Bolt runs 19.30 in Beijing|2008-08-20|Asia/Shanghai|22:20|19.30|22:20|S|4|Athletics at the 2008 Summer Olympics – Men's 200 metres|Usain Bolt 2008 Olympics 200m|19:30
+Athletics|Bolt runs 9.58 in Berlin|2009-08-16|Europe/Berlin|21:35|9.58|21:35|S|4|2009 World Championships in Athletics – Men's 100 metres|Usain Bolt 2009 Berlin 100m|09:58
+Athletics|Bolt runs 19.19 in Berlin|2009-08-20|Europe/Berlin|20:35|19.19|20:35|S|4|2009 World Championships in Athletics – Men's 200 metres|Usain Bolt 2009 Berlin 200m|19:19
+Athletics|Super Saturday: Jessica Ennis wins the heptathlon|2012-08-04|Europe/London|20:35|800 metres, final event|21:02|D|2|Athletics at the 2012 Summer Olympics – Women's heptathlon|Jessica Ennis 2012 Olympics heptathlon|
+Athletics|Super Saturday: Greg Rutherford wins the long jump|2012-08-04|Europe/London|19:55||21:24|D|3|Athletics at the 2012 Summer Olympics – Men's long jump|Greg Rutherford 2012 Olympics|
+Athletics|Super Saturday: Mo Farah wins the 10,000 metres|2012-08-04|Europe/London|21:15|27:30.42|21:46|D|2|Athletics at the 2012 Summer Olympics – Men's 10,000 metres|Mo Farah 2012 Olympics 10000m|
+Athletics|Bolt retains the 100 metres title in London|2012-08-05|Europe/London|21:50|9.63|21:50|S|4|Athletics at the 2012 Summer Olympics – Men's 100 metres|Usain Bolt 2012 Olympics 100m|
+Athletics|Rudisha leads from the front to 1:40.91|2012-08-09|Europe/London|20:00|1:40.91|20:01|S|4|Athletics at the 2012 Summer Olympics – Men's 800 metres|David Rudisha 2012 Olympics|01:40
+Athletics|Van Niekerk runs 43.03 from lane eight|2016-08-14|America/Sao_Paulo|22:00|43.03|22:00|S|4|Athletics at the 2016 Summer Olympics – Men's 400 metres|Wayde van Niekerk 2016 Olympics|
+Athletics|Bolt wins a third Olympic 100 metres|2016-08-14|America/Sao_Paulo|22:25|9.81|22:25|S|4|Athletics at the 2016 Summer Olympics – Men's 100 metres|Usain Bolt 2016 Olympics 100m|
+Athletics|Kipchoge runs 2:01:39 in Berlin|2018-09-16|Europe/Berlin|09:15|2:01:39|11:16|S|3|2018 Berlin Marathon|Kipchoge 2018 Berlin Marathon|02:01
+Athletics|Kipchoge runs a marathon in 1:59:40|2019-10-12|Europe/Vienna|08:15|1:59:40|10:14|D|1|Ineos 1:59 Challenge|Kipchoge Ineos 1:59 Vienna|01:59
+Athletics|Warholm runs 45.94 in the 400 metres hurdles|2021-08-03|Asia/Tokyo|12:20|45.94|12:20|S|4|Athletics at the 2020 Summer Olympics – Men's 400 metres hurdles|Warholm Tokyo 2020|
+Athletics|Tamberi and Barshim agree to share high jump gold|2021-08-01|Asia/Tokyo|19:10||21:40|E|12|Athletics at the 2020 Summer Olympics – Men's high jump|Tamberi Barshim Tokyo 2020|
+Athletics|Kiptum runs 2:00:35 in Chicago|2023-10-08|America/Chicago|07:30|2:00:35|09:30|S|3|2023 Chicago Marathon|Kiptum 2023 Chicago Marathon|02:00
+Athletics|Noah Lyles wins the 100 metres by five thousandths of a second|2024-08-04|Europe/Paris|21:55|9.784|21:55|S|4|Athletics at the 2024 Summer Olympics – Men's 100 metres|Noah Lyles 2024 Olympics 100m|
+Athletics|Duplantis clears 6.25 metres in Paris|2024-08-05|Europe/Paris|19:00|6.25 m|22:15|E|15|Athletics at the 2024 Summer Olympics – Men's pole vault|Duplantis 2024 Olympics|06:25
+Athletics|Jonathan Edwards jumps 18.29 metres|1995-08-07|Europe/Stockholm||18.29 m||U||1995 World Championships in Athletics – Men's triple jump|Jonathan Edwards 1995|18:29
+Swimming|Phelps wins the 100 metres butterfly by one hundredth|2008-08-16|Asia/Shanghai|10:10|50.58|10:11|S|5|Swimming at the 2008 Summer Olympics – Men's 100 metre butterfly|Michael Phelps 2008 Olympics|
+Swimming|Phelps wins an eighth gold in Beijing|2008-08-17|Asia/Shanghai|10:58|Medley relay|11:02|S|6|Swimming at the 2008 Summer Olympics – Men's 4 × 100 metre medley relay|Phelps 2008 medley relay|
+Swimming|Peaty breaks the world record for Britain's first gold in Rio|2016-08-07|America/Sao_Paulo|22:53|57.13|22:54|S|6|Swimming at the 2016 Summer Olympics – Men's 100 metre breaststroke|Adam Peaty 2016 Olympics|
+Rowing|Redgrave wins a fifth Olympic gold|2000-09-23|Australia/Sydney|10:30|Coxless four final|10:36|S|5|Rowing at the 2000 Summer Olympics – Men's coxless four|Redgrave Sydney 2000|
+Gymnastics|Nadia Comăneci scores the first perfect 10|1976-07-18|America/Toronto||1.00 on the scoreboard||U||Nadia Comăneci|Nadia Comăneci 1976|10:00
+Gymnastics|Kerri Strug lands the vault on one leg|1996-07-23|America/New_York||||U||Kerri Strug|Kerri Strug 1996|
+Figure skating|Torvill and Dean's Boléro|1984-02-14|Europe/Belgrade||Twelve 6.0s||U||Torvill and Dean|Torvill Dean 1984|
+Speed skating|Bradbury wins gold as everyone else falls|2002-02-16|America/Denver||||U||Steven Bradbury|Steven Bradbury 2002|
+Ice hockey|Miracle on Ice: Eruzione puts the USA ahead|1980-02-22|America/New_York|17:00|Third period, 10:00|18:50|E|15|Miracle on Ice|Miracle on Ice 1980|
+Ice hockey|Bobby Orr flies through the air|1970-05-10|America/New_York||Overtime, 0:40||U||1970 Stanley Cup Finals|Bobby Orr 1970|
+Ice hockey|Paul Henderson's goal wins the Summit Series|1972-09-28|Europe/Moscow||Third period, 19:26||U||Summit Series|Summit Series 1972 Henderson|
+Ice hockey|Crosby's golden goal|2010-02-28|America/Vancouver|12:15|Overtime, 7:40|14:54|E|10|Ice hockey at the 2010 Winter Olympics – Men's tournament|Crosby 2010 Olympics gold|
+Baseball|Bobby Thomson's Shot Heard Round the World|1951-10-03|America/New_York||Bottom of the 9th|15:58|D|1|Shot Heard 'Round the World (baseball)|Bobby Thomson 1951|
+Baseball|Don Larsen's World Series perfect game|1956-10-08|America/New_York||27 up, 27 down||U||Don Larsen's perfect game|Don Larsen 1956 perfect game|
+Baseball|Mazeroski's walk off wins the World Series|1960-10-13|America/New_York||Bottom of the 9th|15:36|D|1|1960 World Series|Mazeroski 1960 World Series|
+Baseball|Hank Aaron hits number 715|1974-04-08|America/New_York||4th inning|21:07|D|1|Hank Aaron|Hank Aaron 715|
+Baseball|Fisk waves it fair|1975-10-22|America/New_York||Bottom of the 12th|00:34|D|1|1975 World Series|Carlton Fisk 1975 World Series|
+Baseball|The ball goes through Buckner's legs|1986-10-26|America/New_York||Bottom of the 10th|00:30|E|10|1986 World Series|1986 World Series Game 6|
+Baseball|Kirk Gibson's limping pinch hit home run|1988-10-15|America/Los_Angeles||Bottom of the 9th|20:37|D|1|Kirk Gibson's 1988 World Series home run|Kirk Gibson 1988|
+Baseball|Joe Carter's walk off wins the World Series|1993-10-23|America/Toronto||Bottom of the 9th|23:39|R|3|1993 World Series|Joe Carter 1993 World Series|
+Baseball|Cal Ripken's 2,131st consecutive game becomes official|1995-09-06|America/New_York||Middle of the 5th|21:20|R|3|Cal Ripken Jr.|Cal Ripken 2131|21:31
+Baseball|The Red Sox end the Curse of the Bambino|2004-10-27|America/Chicago||Final out|22:40|R|3|2004 World Series|2004 World Series Red Sox|
+Baseball|The Cubs end a 108 year wait|2016-11-03|America/New_York||Final out, 10th inning|00:47|D|1|2016 World Series|2016 World Series Cubs celebrate|
+Baseball|Freeman's walk off grand slam|2024-10-25|America/Los_Angeles|17:11|Bottom of the 10th|20:37|D|1|2024 World Series|Freddie Freeman 2024 World Series|
+American football|The Immaculate Reception|1972-12-23|America/New_York|13:00|4th quarter, 0:22|15:29|D|3|Immaculate Reception|Immaculate Reception|
+American football|The Catch: Montana to Clark|1982-01-10|America/Los_Angeles||4th quarter, 0:58||U||The Catch (American football)|The Catch 1982 Dwight Clark|
+American football|Wide Right|1991-01-27|America/New_York|18:19|4th quarter, 0:08|21:45|E|15|Super Bowl XXV|Super Bowl XXV|
+American football|The Helmet Catch|2008-02-03|America/Phoenix|16:32|4th quarter, 1:15|19:55|E|15|Helmet Catch|Super Bowl XLII|
+American football|Malcolm Butler's goal line interception|2015-02-01|America/Phoenix|16:30|4th quarter, 0:26|20:00|E|15|Super Bowl XLIX|Super Bowl XLIX|
+American football|The Patriots complete the comeback from 28 3|2017-02-05|America/Chicago|17:30|Overtime|21:25|E|15|Super Bowl LI|Super Bowl LI|
+American football|The Philly Special|2018-02-04|America/Chicago|17:30|2nd quarter, 0:38|18:55|E|15|Philly Special|Super Bowl LII|
+American football|The Minneapolis Miracle|2018-01-14|America/Chicago|15:40|4th quarter, 0:10|18:50|E|15|Minneapolis Miracle|Minneapolis Miracle|
+Basketball|Wilt Chamberlain scores 100|1962-03-02|America/New_York||4th quarter, 0:46||U||Wilt Chamberlain's 100-point game|Wilt Chamberlain 100|01:00
+Basketball|The Shot: Jordan over Ehlo|1989-05-07|America/New_York||4th quarter, 0:00||U||The Shot|Michael Jordan 1989|
+Basketball|Jordan's last shot as a Bull|1998-06-14|America/Denver|17:30|4th quarter, 0:05.2|20:05|E|12|1998 NBA Finals|Michael Jordan 1998 Finals|
+Basketball|Kobe Bryant scores 81|2006-01-22|America/Los_Angeles|18:30|||U||Kobe Bryant's 81-point game|Kobe Bryant 2006|
+Basketball|Ray Allen's corner three|2013-06-18|America/New_York|21:00|4th quarter, 0:05.2|23:35|E|12|2013 NBA Finals|Ray Allen 2013 Finals|
+Basketball|LeBron's chase down block|2016-06-19|America/Los_Angeles|17:00|4th quarter, 1:50|19:35|E|12|2016 NBA Finals|LeBron James 2016 Finals|
+Basketball|Kawhi's buzzer beater bounces four times|2019-05-12|America/Toronto|19:00|4th quarter, 0:00|21:38|E|12|2019 NBA playoffs|Kawhi Leonard 2019 Raptors|
+Boxing|Ali stands over Liston|1965-05-25|America/New_York||Round 1|22:40|E|15|Muhammad Ali vs. Sonny Liston|Ali Liston 1965|
+Boxing|The Fight of the Century: Frazier knocks Ali down|1971-03-08|America/New_York|22:40|Round 15|23:40|E|15|Fight of the Century|Ali Frazier 1971|
+Boxing|Rumble in the Jungle: Ali knocks out Foreman|1974-10-30|Africa/Kinshasa|04:00|Round 8, 2:58|04:40|E|20|The Rumble in the Jungle|Ali Foreman 1974 Kinshasa|
+Boxing|Thrilla in Manila: Frazier's corner stops it|1975-10-01|Asia/Manila|10:00|After round 14|11:00|E|15|Thrilla in Manila|Ali Frazier 1975 Manila|
+Boxing|Buster Douglas knocks out Tyson|1990-02-11|Asia/Tokyo||Round 10, 1:22|13:15|E|20|Mike Tyson vs. Buster Douglas|Tyson Douglas 1990|
+Boxing|Joshua stops Klitschko at Wembley|2017-04-29|Europe/London|22:00|Round 11|22:45|E|10|Anthony Joshua vs. Wladimir Klitschko|Joshua Klitschko Wembley 2017|
+Boxing|Fury gets up in the twelfth|2018-12-01|America/Los_Angeles||Round 12|21:15|E|20|Deontay Wilder vs. Tyson Fury|Wilder Fury 2018|
+Motor racing|Ford finish one, two, three at Le Mans|1966-06-19|Europe/Paris|16:00|24 hours|16:00|D|2|1966 24 Hours of Le Mans|1966 24 Hours of Le Mans finish|
+Motor racing|James Hunt takes the title in the rain at Fuji|1976-10-24|Asia/Tokyo||||U||1976 Japanese Grand Prix|James Hunt 1976|
+Motor racing|Senna's opening lap at Donington|1993-04-11|Europe/London||Lap 1||U||1993 European Grand Prix|Senna Donington 1993|
+Motor racing|Hamilton passes Glock at the last corner to win the title|2008-11-02|America/Sao_Paulo|15:00|Lap 71 of 71|16:38|E|8|2008 Brazilian Grand Prix|Hamilton 2008 Brazilian Grand Prix|
+Motor racing|Button wins in Montreal on the last lap after four hours|2011-06-12|America/Toronto|13:00|Lap 70 of 70|17:05|E|6|2011 Canadian Grand Prix|Button 2011 Canadian Grand Prix|
+Motor racing|Toyota stops on the final lap at Le Mans|2016-06-19|Europe/Paris|15:00|23 hours 57 minutes|14:57|D|3|2016 24 Hours of Le Mans|2016 24 Hours of Le Mans Toyota|
+Motor racing|Verstappen passes Hamilton on the last lap in Abu Dhabi|2021-12-12|Asia/Dubai|17:00|Lap 58 of 58|18:31|E|6|2021 Abu Dhabi Grand Prix|2021 Abu Dhabi Grand Prix Verstappen|
+Horse racing|Devon Loch collapses yards from the line|1956-03-24|Europe/London|15:15|Run in|15:25|E|8|1956 Grand National|Devon Loch 1956|
+Horse racing|Foinavon avoids the pile up at 100 to 1|1967-04-08|Europe/London|15:15|23rd fence|15:22|S|5|1967 Grand National|Foinavon 1967|
+Horse racing|Secretariat wins the Belmont by 31 lengths|1973-06-09|America/New_York|17:38|2:24|17:41|S|5|1973 Belmont Stakes|Secretariat 1973 Belmont|02:24
+Horse racing|Red Rum wins a third Grand National|1977-04-02|Europe/London|15:15|9:30.3|15:25|S|5|1977 Grand National|Red Rum 1977|
+Horse racing|Desert Orchid wins the Gold Cup in the mud|1989-03-16|Europe/London|15:30||15:37|S|5|1989 Cheltenham Gold Cup|Desert Orchid|
+Horse racing|Dettori's Magnificent Seven|1996-09-28|Europe/London|17:35|Seventh winner|17:38|S|5|Frankie Dettori's Magnificent Seven|Frankie Dettori 1996 Ascot|
+Horse racing|Rachael Blackmore becomes the first woman to win the Grand National|2021-04-10|Europe/London|17:15||17:25|S|5|2021 Grand National|Rachael Blackmore Minella Times|
+Golf|Nicklaus wins the Masters at 46|1986-04-13|America/New_York||||U||1986 Masters Tournament|Jack Nicklaus 1986 Masters|
+Golf|Seve's fist pump at St Andrews|1984-07-22|Europe/London||||U||1984 Open Championship|Seve Ballesteros 1984 Open|
+Golf|Tiger's chip hangs on the lip at 16|2005-04-10|America/New_York||||U||2005 Masters Tournament|Tiger Woods 2005 Masters|
+Golf|Kaymer holes the putt: the Miracle at Medinah|2012-09-30|America/Chicago||||U||2012 Ryder Cup|2012 Ryder Cup Medinah Kaymer|
+Golf|Tiger wins the Masters again|2019-04-14|America/New_York|09:20|72nd hole|14:28|E|10|2019 Masters Tournament|Tiger Woods 2019 Masters|
+Golf|McIlroy completes the career Grand Slam|2025-04-13|America/New_York||Playoff, first hole|19:16|E|10|2025 Masters Tournament|Rory McIlroy 2025 Masters|
+Snooker|Dennis Taylor pots the final black|1985-04-29|Europe/London||Deciding frame, final black|00:23|D|3|1985 World Snooker Championship final|Dennis Taylor snooker|
+Snooker|O'Sullivan's 147 in 5 minutes 8 seconds|1997-04-21|Europe/London||147||U||Ronnie O'Sullivan|Ronnie O'Sullivan|01:47
+Darts|Luke Littler, 17, becomes world champion|2025-01-03|Europe/London|20:00||22:25|E|15|2025 PDC World Darts Championship|Luke Littler 2025|
+Cycling|LeMond beats Fignon by eight seconds|1989-07-23|Europe/Paris||Final time trial||U||1989 Tour de France|Greg LeMond 1989 Tour de France|
+Cycling|Wiggins sets the Hour record|2015-06-07|Europe/London|18:30|54.526 km|19:30|S|4|Hour record|Bradley Wiggins hour record 2015|
+Cycling|Pogačar takes yellow on La Planche des Belles Filles|2020-09-19|Europe/Paris||Stage 20 time trial|17:45|E|15|2020 Tour de France|Pogačar 2020 Tour de France|
+Cycling|Cavendish wins a record 35th Tour stage|2024-07-03|Europe/Paris||Stage 5|17:22|E|10|2024 Tour de France|Cavendish 2024 Tour de France stage 5|
+Sailing|Australia II ends the 132 year American hold on the Cup|1983-09-26|America/New_York||Race 7|17:21|R|3|1983 America's Cup|Australia II 1983|
+Sailing|Ellen MacArthur completes the fastest solo circumnavigation|2005-02-07|Europe/London||71 days 14 hours|22:29|R|3|Ellen MacArthur|Ellen MacArthur 2005|
+Swimming|Captain Webb completes the first Channel swim|1875-08-25|Europe/Paris||21 hours 45 minutes|10:41|D|3|Matthew Webb|Captain Matthew Webb|
+Climbing|Hillary and Tenzing reach the summit of Everest|1953-05-29|Asia/Kathmandu|||11:30|D|2|1953 British Mount Everest expedition|Hillary Tenzing 1953|
+Climbing|Honnold tops out El Capitan without a rope|2017-06-03|America/Los_Angeles|05:32|3 hours 56 minutes|09:28|R|3|Free Solo|Alex Honnold El Capitan|
+Olympics|Muhammad Ali lights the cauldron in Atlanta|1996-07-20|America/New_York||Opening ceremony|00:28|E|10|1996 Summer Olympics opening ceremony|Muhammad Ali 1996 Olympics torch|

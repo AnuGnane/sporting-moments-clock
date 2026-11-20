@@ -1,0 +1,17 @@
+.DS_Store
+research/cache/
+research/cache2/
+__pycache__/
+*.pyc
+DerivedData/
+app/build/
+.build/
+xcuserdata/
+pipeline/images_work/raw/
+*.xcodeproj/
+# Local only: working brief, agent scratch work, cached research pages
+BRIEF.md
+pipeline/*_work/
+research/wikipedia_cache.tar.gz
+dist/build/
+pipeline/extra_work_*/

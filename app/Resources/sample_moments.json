@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "generated": "2026-11-20T00:00:00Z",
+  "note": "Hand made sample of 14 rows from data/sporting_moments_v2.csv and data/record_digits_prototype.csv, used only until the pipeline writes moments.json. Places added by hand; captions as in the CSV.",
+  "moments": [
+    {
+      "id": "M0001", "sport": "Football",
+      "caption": "Ghiggia silences the Maracanã: Uruguay beat Brazil to win the World Cup",
+      "instantUTC": "1950-07-16T19:31:00Z", "venueTZ": "America/Sao_Paulo", "venueLocal": "1950-07-16T16:31",
+      "place": "Maracanã, Rio de Janeiro", "basis": "derived", "plusMinusMin": 6, "checked": true,
+      "recordDigits": null, "recordMark": null, "recordEvent": null,
+      "matchMinute": 79, "matchMinuteLabel": "79", "fame": 1, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)", "image": null
+    },
+    {
+      "id": "M0002", "sport": "Football",
+      "caption": "The Matthews Final: Perry's late winner, Blackpool 4 Bolton 3",
+      "instantUTC": "1953-05-02T15:44:00Z", "venueTZ": "Europe/London", "venueLocal": "1953-05-02T16:44",
+      "place": "Wembley Stadium, London", "basis": "derived", "plusMinusMin": 6, "checked": true,
+      "recordDigits": null, "recordMark": null, "recordEvent": null,
+      "matchMinute": 92, "matchMinuteLabel": "90+2", "fame": 1, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/1953_FA_Cup_final", "image": null
+    },
+    {
+      "id": "M0054", "sport": "Football",
+      "caption": "\"And Solskjaer has won it\"",
+      "instantUTC": "1999-05-26T20:35:00Z", "venueTZ": "Europe/Madrid", "venueLocal": "1999-05-26T22:35",
+      "place": "Camp Nou, Barcelona", "basis": "derived", "plusMinusMin": 4, "checked": false,
+      "recordDigits": null, "recordMark": null, "recordEvent": null,
+      "matchMinute": 93, "matchMinuteLabel": "90+3", "fame": 1, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/1999_UEFA_Champions_League_final", "image": null
+    },
+    {
+      "id": "M0069", "sport": "Football",
+      "caption": "Istanbul: Dudek saves from Shevchenko",
+      "instantUTC": "2005-05-25T21:30:00Z", "venueTZ": "Europe/Istanbul", "venueLocal": "2005-05-26T00:30",
+      "place": "Atatürk Olympic Stadium, Istanbul", "basis": "derived", "plusMinusMin": 8, "checked": true,
+      "recordDigits": null, "recordMark": null, "recordEvent": null,
+      "matchMinute": null, "matchMinuteLabel": null, "fame": 1, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/2005_UEFA_Champions_League_final", "image": null
+    },
+    {
+      "id": "M0148", "sport": "Tennis",
+      "caption": "Nadal beats Federer in near darkness",
+      "instantUTC": "2008-07-06T20:15:00Z", "venueTZ": "Europe/London", "venueLocal": "2008-07-06T21:15",
+      "place": "Centre Court, Wimbledon", "basis": "documented", "plusMinusMin": 2, "checked": true,
+      "recordDigits": null, "recordMark": null, "recordEvent": null,
+      "matchMinute": null, "matchMinuteLabel": null, "fame": 1, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/2008_Wimbledon_Championships_%E2%80%93_Men's_singles_final", "image": null
+    },
+    {
+      "id": "M0149", "sport": "Tennis",
+      "caption": "Isner beats Mahut 70 68 after 11 hours 5 minutes",
+      "instantUTC": "2010-06-24T15:47:00Z", "venueTZ": "Europe/London", "venueLocal": "2010-06-24T16:47",
+      "place": "Court 18, Wimbledon", "basis": "documented", "plusMinusMin": 2, "checked": true,
+      "recordDigits": null, "recordMark": null, "recordEvent": null,
+      "matchMinute": null, "matchMinuteLabel": null, "fame": 1, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/Isner%E2%80%93Mahut_match_at_the_2010_Wimbledon_Championships", "image": null
+    },
+    {
+      "id": "M0152", "sport": "Tennis",
+      "caption": "Hewitt beats Baghdatis at 4.34am",
+      "instantUTC": "2008-01-19T17:34:00Z", "venueTZ": "Australia/Melbourne", "venueLocal": "2008-01-20T04:34",
+      "place": "Rod Laver Arena, Melbourne", "basis": "documented", "plusMinusMin": 1, "checked": true,
+      "recordDigits": null, "recordMark": null, "recordEvent": null,
+      "matchMinute": null, "matchMinuteLabel": null, "fame": 1, "fameSub": 0,
+      "sourceURL": "https://www.eurosport.com/tennis/atp-acapulco/2022/alexander-zverev-beats-jenson-brooksby-in-latest-ever-tennis-finish-at-4.55am-on-remarkable-day-in-a_sto8812400/story.shtml", "image": null
+    },
+    {
+      "id": "M0172", "sport": "Athletics",
+      "caption": "Bolt runs 9.58 in Berlin",
+      "instantUTC": "2009-08-16T19:35:00Z", "venueTZ": "Europe/Berlin", "venueLocal": "2009-08-16T21:35",
+      "place": "Olympiastadion, Berlin", "basis": "scheduled", "plusMinusMin": 4, "checked": true,
+      "recordDigits": "09:58", "recordMark": "9.58", "recordEvent": "Men's 100 metres", "recordLabel": "World record",
+      "matchMinute": null, "matchMinuteLabel": null, "fame": 1, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/2009_World_Championships_in_Athletics_%E2%80%93_Men's_100_metres", "image": null
+    },
+    {
+      "id": "M0182", "sport": "Athletics",
+      "caption": "Kipchoge runs a marathon in 1:59:40",
+      "instantUTC": "2019-10-12T08:14:00Z", "venueTZ": "Europe/Vienna", "venueLocal": "2019-10-12T10:14",
+      "place": "Prater, Vienna", "basis": "documented", "plusMinusMin": 1, "checked": true,
+      "recordDigits": null, "recordMark": null, "recordEvent": null,
+      "matchMinute": null, "matchMinuteLabel": null, "fame": 1, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/Ineos_1:59_Challenge", "image": null
+    },
+    {
+      "id": "M0341", "sport": "Football",
+      "caption": "Dorado scores for Uruguay against Argentina, 1930 World Cup final",
+      "instantUTC": "1930-07-30T16:27:00Z", "venueTZ": "America/Montevideo", "venueLocal": "1930-07-30T12:57",
+      "place": "Estadio Centenario, Montevideo", "basis": "derived", "plusMinusMin": 4, "checked": true,
+      "recordDigits": null, "recordMark": null, "recordEvent": null,
+      "matchMinute": 12, "matchMinuteLabel": "12", "fame": 3, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup_final", "image": null
+    },
+    {
+      "id": "M0348", "sport": "Football",
+      "caption": "Schiavio scores for Italy against Czechoslovakia, 1934 World Cup final",
+      "instantUTC": "1934-06-10T16:26:00Z", "venueTZ": "Europe/Rome", "venueLocal": "1934-06-10T17:26",
+      "place": "Stadio Nazionale PNF, Rome", "basis": "derived", "plusMinusMin": 8, "checked": true,
+      "recordDigits": null, "recordMark": null, "recordEvent": null,
+      "matchMinute": 95, "matchMinuteLabel": "95", "fame": 3, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/1934_FIFA_World_Cup_final", "image": null
+    },
+    {
+      "id": "M1693", "sport": "Athletics",
+      "caption": "Gold for Michael Johnson in the men's 400 metres, Atlanta 1996, in 43.49",
+      "instantUTC": "1996-07-30T01:10:00Z", "venueTZ": "America/New_York", "venueLocal": "1996-07-29T21:10",
+      "place": "Centennial Olympic Stadium, Atlanta", "basis": "scheduled", "plusMinusMin": 4, "checked": true,
+      "recordDigits": null, "recordMark": null, "recordEvent": null,
+      "matchMinute": null, "matchMinuteLabel": null, "fame": 3, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_1996_Summer_Olympics_%E2%80%93_Men's_400_metres", "image": null
+    },
+    {
+      "id": "R001", "sport": "Athletics",
+      "caption": "Bolt runs 19.19 for 200 metres in Berlin",
+      "date": "2009-08-20",
+      "instantUTC": null, "venueTZ": null, "venueLocal": null,
+      "place": "Olympiastadion, Berlin", "basis": null, "plusMinusMin": null, "checked": null,
+      "recordDigits": "19:19", "recordMark": "19.19", "recordEvent": "Men's 200 metres", "recordLabel": "World record",
+      "matchMinute": null, "matchMinuteLabel": null, "fame": 2, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/Men's_200_metres_world_record_progression", "image": null
+    },
+    {
+      "id": "R002", "sport": "Athletics",
+      "caption": "El Guerrouj runs the mile in 3:43.13 in Rome",
+      "date": "1999-07-07",
+      "instantUTC": null, "venueTZ": null, "venueLocal": null,
+      "place": "Stadio Olimpico, Rome", "basis": null, "plusMinusMin": null, "checked": null,
+      "recordDigits": "03:43", "recordMark": "3:43.13", "recordEvent": "Men's mile", "recordLabel": "World record",
+      "matchMinute": null, "matchMinuteLabel": null, "fame": 2, "fameSub": 0,
+      "sourceURL": "https://en.wikipedia.org/wiki/Mile_run_world_record_progression", "image": null
+    }
+  ]
+}
