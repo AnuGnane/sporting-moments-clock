@@ -3,7 +3,7 @@ import Foundation
 /// Who took a bundled photo and under which licence, from `credits.json`.
 ///
 /// `Tools/make_credits.py` writes that file before each build from
-/// data/overrides/images.csv, one entry per photo in `Resources/images/`.
+/// data/overrides/images.csv and images_related.csv, one entry per photo in `Resources/images/`.
 public struct PhotoCredit: Codable, Hashable, Identifiable, Sendable {
     /// File name inside `Resources/images/`, as in `MomentImage.file`.
     public var file: String
@@ -16,6 +16,13 @@ public struct PhotoCredit: Codable, Hashable, Identifiable, Sendable {
     public var licenceURL: URL?
     public var commonsFile: String
     public var commonsPage: URL?
+    /// Where the photo was found, when not Wikimedia Commons ("Flickr"). `commonsPage` is then its page there.
+    public var source: String?
+    /// Who or what a related photo shows ("Sergey Bubka in 2013"), for photos that are not of the moment itself.
+    public var subject: String?
+
+    /// The name of the site the photo came from.
+    public var sourceName: String { source ?? "Wikimedia Commons" }
 
     public var id: String { file }
 

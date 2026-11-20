@@ -10,6 +10,8 @@ Reads (all overrides optional, partial files are fine):
   data/overrides/captions.csv           caption replacements
   data/overrides/places_curated.csv     place for curated rows
   data/overrides/images.csv             bundled photos
+  data/overrides/images_other.csv       bundled photos from sources other than Commons
+  data/overrides/images_related.csv     photos of the athlete or venue, not the event
   data/records_reviewed.csv             reviewed world records
   data/overrides/record_labels.csv      record label and mark per id
 
@@ -33,6 +35,7 @@ SRC = os.path.join(DATA, "sporting_moments_v2.csv")
 OUT = os.path.join(ROOT, "build", "moments.json")
 APP_RES = os.path.join(ROOT, "app", "Resources")
 IMG_DIR = os.path.join(APP_RES, "images")
+MIN_IMAGE_WIDTH = 1000  # narrower photos are not bundled; the card darkens the photo, which hides some softness
 
 BASES = {"documented", "derived", "scheduled", "estimated"}
 
@@ -178,6 +181,8 @@ def build(quiet=False, write=True, ovr_dir=None, records_path=None):
     captions = by_id(read_csv(os.path.join(ovr, "captions.csv")))
     places = by_id(read_csv(os.path.join(ovr, "places_curated.csv")))
     images = by_id(read_csv(os.path.join(ovr, "images.csv")))
+    # Photos from other free sources (Flickr and so on); a row here replaces the images.csv row for that id.
+    images.update(by_id(read_csv(os.path.join(ovr, "images_other.csv"))))
     records = read_csv(records_path or os.path.join(DATA, "records_reviewed.csv"))
     labels = by_id(read_csv(os.path.join(ovr, "record_labels.csv")))
     zones = available_timezones()
@@ -283,7 +288,7 @@ def build(quiet=False, write=True, ovr_dir=None, records_path=None):
             why = None
             if img.get("tier") not in ("moment", "event"): why = f"tier {img.get('tier')!r}"
             elif not os.path.isfile(os.path.join(IMG_DIR, img["local_file"])): why = "file not in app/Resources/images"
-            elif (to_int(img.get("width_px")) or 0) < 1600: why = f"width {img.get('width_px')!r} under 1600"
+            elif (to_int(img.get("width_px")) or 0) < MIN_IMAGE_WIDTH: why = f"width {img.get('width_px')!r} under {MIN_IMAGE_WIDTH}"
             elif not (img.get("author") and img.get("licence")): why = "author or licence blank"
             elif not credit_for(img): why = "no credit"
             if why:
@@ -354,7 +359,7 @@ def build(quiet=False, write=True, ovr_dir=None, records_path=None):
             img = images.get(rid)
             image = None
             if img and img.get("local_file") and img.get("tier") in ("moment", "event") and os.path.isfile(os.path.join(IMG_DIR, img["local_file"])) \
-                    and (to_int(img.get("width_px")) or 0) >= 1600 and img.get("author") and img.get("licence"):
+                    and (to_int(img.get("width_px")) or 0) >= MIN_IMAGE_WIDTH and img.get("author") and img.get("licence"):
                 image = {"file": img["local_file"], "credit": credit_for(img)}
             moments.append({
                 "id": rid, "sport": "Athletics", "caption": caption, "date": rdate,
@@ -396,7 +401,7 @@ def build(quiet=False, write=True, ovr_dir=None, records_path=None):
                 "sourceURL": er["time_source"].split()[0], "image": None,
             })
             img = images.get(eid)
-            if img and img.get("local_file") and img.get("tier") in ("moment", "event") and (to_int(img.get("width_px")) or 0) >= 1600 \
+            if img and img.get("local_file") and img.get("tier") in ("moment", "event") and (to_int(img.get("width_px")) or 0) >= MIN_IMAGE_WIDTH \
                     and img.get("author") and img.get("licence") and os.path.isfile(os.path.join(IMG_DIR, img["local_file"])):
                 moments[-1]["image"] = {"file": img["local_file"], "credit": credit_for(img)}
                 stats["images"] += 1
@@ -430,6 +435,26 @@ def build(quiet=False, write=True, ovr_dir=None, records_path=None):
             "fame": fame if fame in (2, 4) else 4, "fameSub": 1, "sourceURL": (xr.get("source_url") or "").strip() or None, "image": None,
         })
         stats["extra_records"] += 1
+
+    # ------------------------------------------------------------ related photos
+    # data/overrides/images_related.csv: a photo of the athlete or the venue, not of the event.
+    # Used only when the card has no photo of its own. The credit line must begin "Pictured: "
+    # so the card never claims to show the moment.
+    stats["images_related"] = 0
+    related = by_id(read_csv(os.path.join(ovr, "images_related.csv")))
+    for m in moments:
+        img = related.get(m["id"])
+        if m["image"] is not None or not img or not img.get("local_file"):
+            continue
+        why = None
+        if not os.path.isfile(os.path.join(IMG_DIR, img["local_file"])): why = "file not in app/Resources/images"
+        elif (to_int(img.get("width_px")) or 0) < MIN_IMAGE_WIDTH: why = f"width {img.get('width_px')!r} under {MIN_IMAGE_WIDTH}"
+        elif not (img.get("author") and img.get("licence")): why = "author or licence blank"
+        elif not (img.get("credit_line") or "").startswith("Pictured: "): why = "related credit must begin 'Pictured: '"
+        if why:
+            stats["image_rejected"].append((m["id"], why)); continue
+        m["image"] = {"file": img["local_file"], "credit": img["credit_line"]}
+        stats["images_related"] += 1
 
     # ------------------------------------------------------------ record labels
     # Default "World record"; record_labels.csv replaces the label and, when
@@ -479,7 +504,7 @@ def report(stats, log, moments):
       f"dropped with no time, no record digits and no match minute {len(stats['dropped_unknown'])}")
     p(f"  midnight rollovers applied {len(stats['rolled_over'])}: {' '.join(stats['rolled_over'])}")
     p(f"  timed rows with no scheduled start (date taken as the local date) {len(stats['no_start_timed'])}")
-    p(f"  time checks applied {stats['checks_applied']}, images bundled {stats['images']}, shared with same match {stats['images_shared']}, rejected {len(stats['image_rejected'])}")
+    p(f"  time checks applied {stats['checks_applied']}, images bundled {stats['images']}, shared with same match {stats['images_shared']}, related {stats['images_related']}, rejected {len(stats['image_rejected'])}")
     p(f"  records file present {stats['records_file']}, record entries {stats['record_entries']}, merged into moments {stats['record_merges']}")
     p(f"  extra moments {stats['extra_moments']}, extra records {stats['extra_records']}")
     if stats["missing_zone"]:

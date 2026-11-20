@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Writes app/Resources/credits.json from data/overrides/images.csv.
+"""Writes app/Resources/credits.json from data/overrides/images.csv and images_related.csv.
 
 One entry per photo bundled in app/Resources/images, with the ids of every moment
 that uses it (from the CSV and from moments.json). Run by an Xcode build phase
@@ -18,6 +18,8 @@ from pathlib import Path
 
 APP = Path(__file__).resolve().parent.parent
 CSV_PATH = APP.parent / "data" / "overrides" / "images.csv"
+RELATED_PATH = APP.parent / "data" / "overrides" / "images_related.csv"
+OTHER_PATH = APP.parent / "data" / "overrides" / "images_other.csv"
 RESOURCES = APP / "Resources"
 IMAGES = RESOURCES / "images"
 MOMENTS = RESOURCES / "moments.json"
@@ -44,8 +46,15 @@ def moment_ids_by_file():
 
 
 def build():
-    with CSV_PATH.open(encoding="utf-8", newline="") as f:
-        rows = [row for row in csv.DictReader(f) if row["local_file"].strip()]
+    # Later files win for an id: images_other.csv replaces the images.csv row for the same moment.
+    by_key = {}
+    for path in (CSV_PATH, OTHER_PATH, RELATED_PATH):
+        if path.exists():
+            with path.open(encoding="utf-8", newline="") as f:
+                for row in csv.DictReader(f):
+                    if row["local_file"].strip():
+                        by_key[(row["id"], path == RELATED_PATH)] = row
+    rows = list(by_key.values())
     bundled = {p.name for p in IMAGES.iterdir()} if IMAGES.is_dir() else set()
     used_by = moment_ids_by_file()
 
@@ -69,6 +78,8 @@ def build():
             "licenceURL": main["licence_url"].strip() or None,
             "commonsFile": main["commons_file"].strip(),
             "commonsPage": main["commons_page"].strip() or None,
+            "source": (main.get("source") or "").strip() or None,
+            "subject": (main.get("subject") or "").strip() or None,
         })
 
     for file in sorted(bundled - set(rows_by_file)):

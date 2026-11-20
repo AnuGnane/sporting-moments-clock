@@ -6,7 +6,7 @@ import SwiftUI
 /// screen saver; the preview at the top follows every change.
 struct SettingsView: View {
     @Bindable var model: ClockModel
-    @State private var saver = SaverInstallState()
+    @State private var saver = ScreenSaverSetup()
     @State private var loginItem = LoginItem()
     @Environment(\.openWindow) private var openWindow
 
@@ -53,7 +53,7 @@ struct SettingsView: View {
                     Text("Type only").tag(ClockSettings.Photos.typeOnly)
                 } label: {
                     Text("Photos")
-                    Text("From Wikimedia Commons, credited on screen.")
+                    Text("Freely licensed photos, credited on screen.")
                 }
             }
 
@@ -94,26 +94,41 @@ struct SettingsView: View {
 }
 
 private struct ScreenSaverSection: View {
-    let saver: SaverInstallState
+    let saver: ScreenSaverSetup
     let settings: ClockSettings
 
     var body: some View {
         Section {
             LabeledContent {
-                Button(isUpdate ? "Update Screen Saver" : "Install Screen Saver", action: saver.install)
-                    .disabled(saver.status == .upToDate || saver.status == .unavailable)
+                HStack(spacing: 8) {
+                    if saver.isWorking {
+                        ProgressView().controlSize(.small)
+                    }
+                    Button(saver.actionTitle, action: saver.useAsScreenSaver)
+                        .disabled(saver.actionDisabled)
+                }
             } label: {
                 Text("Screen saver")
                 Text(statusText)
             }
-            if let error = saver.error {
-                Text(error).foregroundStyle(.red)
+            switch saver.message {
+            case .error(let text):
+                Text(text).foregroundStyle(.red)
+            case .notice(let text):
+                Text(text).foregroundStyle(.secondary)
+            case nil:
+                EmptyView()
             }
             LabeledContent {
                 Button("Open Screen Saver Settings", action: ScreenSaverActions.openSettingsPane)
             } label: {
-                Text("Choose it")
-                Text("Pick Sporting Moments Clock in System Settings under \(ScreenSaverActions.settingsPaneName).")
+                if saver.canSelectAutomatically {
+                    Text("System Settings")
+                    Text("Choose or change the screen saver under \(ScreenSaverActions.settingsPaneName).")
+                } else {
+                    Text("Choose it")
+                    Text("Pick Sporting Moments Clock in System Settings under \(ScreenSaverActions.settingsPaneName).")
+                }
             }
             LabeledContent {
                 Button("Start Screen Saver Now") { ScreenSaverActions.startNow(with: settings) }
@@ -124,22 +139,31 @@ private struct ScreenSaverSection: View {
         } header: {
             Text("Screen Saver")
         } footer: {
-            Text("The screen saver uses the settings above the next time it starts.")
+            Text(footerText)
                 .foregroundStyle(.secondary)
         }
     }
 
-    private var isUpdate: Bool {
-        if case .differs = saver.status { true } else { false }
+    private var statusText: String {
+        if saver.isWorking { return "Setting it up\u{2026}" }
+        switch (saver.install, saver.selection) {
+        case (.unavailable, _): return "Not included in this copy of the app."
+        case (.notInstalled, _): return "Not installed."
+        case (.upToDate, .selected): return "Sporting Moments Clock is your screen saver."
+        case (.differs(let version), .selected): return "Your screen saver, but not the version in this app" + build(version)
+        case (_, .notSelected): return "Installed, but another screen saver is selected."
+        case (.upToDate, .unknown): return "Installed."
+        case (.differs(let version), .unknown): return "Installed, but not the version in this app" + build(version)
+        }
     }
 
-    private var statusText: String {
-        switch saver.status {
-        case .notInstalled: "Not installed."
-        case .upToDate: "Installed and up to date."
-        case .differs(let version):
-            "Installed, but not the version in this app" + (version.map { " (build \($0))." } ?? ".")
-        case .unavailable: "Not included in this copy of the app."
-        }
+    private func build(_ version: String?) -> String {
+        version.map { " (build \($0))." } ?? "."
+    }
+
+    private var footerText: String {
+        let settings = "The screen saver uses the settings above the next time it starts."
+        guard saver.canSelectAutomatically else { return settings }
+        return "Use as Screen Saver sets it for every display and space. The desktop may blink once while macOS reloads it. " + settings
     }
 }

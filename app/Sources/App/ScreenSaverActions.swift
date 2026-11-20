@@ -62,32 +62,137 @@ enum ScreenSaverActions {
     }
 }
 
-/// The installed screen saver compared with the one inside this app, for the Settings window.
+/// Installing the screen saver and making it the chosen one, for the Settings window and
+/// the welcome sheet. One action does both; where the wallpaper store cannot be changed
+/// safely it installs only, and the user chooses in System Settings.
 @MainActor
 @Observable
-final class SaverInstallState {
-    private(set) var status: SaverInstaller.Status = .unavailable
-    private(set) var error: String?
-    private let installer: SaverInstaller
-
-    /// Cheap on purpose: SwiftUI may build this more than once. The Settings window calls
-    /// `refresh()` when it appears, which hashes both copies of the saver.
-    init(installer: SaverInstaller = SaverInstaller(source: SaverInstaller.embeddedSaver())) {
-        self.installer = installer
+final class ScreenSaverSetup {
+    /// What happened on the last attempt, when it did not simply work.
+    enum Message: Equatable {
+        case error(String)
+        /// Installed, but the user has to choose it in System Settings.
+        case notice(String)
     }
+
+    private(set) var install: SaverInstaller.Status = .unavailable
+    private(set) var selection: WallpaperStore.State = .unknown
+    private(set) var isWorking = false
+    private(set) var message: Message?
+    /// Set when an automatic choice was tried and did not stick, so the rest of this
+    /// session offers System Settings instead of trying again.
+    private var automaticFailed = false
+    private let installer: SaverInstaller
+    private let store: WallpaperStore
+
+    /// Cheap on purpose: SwiftUI may build this more than once. The views call `refresh()`
+    /// when they appear, which hashes both copies of the saver and reads the wallpaper store.
+    init(installer: SaverInstaller = SaverInstaller(source: SaverInstaller.embeddedSaver()), store: WallpaperStore = WallpaperStore()) {
+        self.installer = installer
+        self.store = store
+    }
+
+    /// True when the wallpaper store can be changed safely, so one click can finish the job.
+    var canSelectAutomatically: Bool { selection != .unknown && !automaticFailed }
+
+    /// Installed, up to date and chosen: nothing left to do.
+    var isDone: Bool { install == .upToDate && selection == .selected }
 
     func refresh() {
-        status = installer.status()
+        install = installer.status()
+        selection = store.state(of: installer.destination)
     }
 
-    func install() {
-        do {
-            try installer.install()
-            error = nil
-        } catch {
-            self.error = error.localizedDescription
+    /// The title for the one button that installs (or updates) and chooses the saver.
+    var actionTitle: String {
+        let update = if case .differs = install { true } else { false }
+        if !canSelectAutomatically || selection == .selected && update {
+            return update ? "Update Screen Saver" : "Install Screen Saver"
+        }
+        return "Use as Screen Saver"
+    }
+
+    var actionDisabled: Bool {
+        if isWorking || install == .unavailable { return true }
+        return install == .upToDate && (selection == .selected || !canSelectAutomatically)
+    }
+
+    /// Installs or updates the saver if needed, then makes it the chosen screen saver.
+    func useAsScreenSaver() {
+        guard !isWorking else { return }
+        message = nil
+        if install != .upToDate {
+            do {
+                try installer.install()
+            } catch {
+                message = .error(error.localizedDescription)
+                refresh()
+                return
+            }
         }
         refresh()
+        guard selection != .selected else { return }
+        // Without a store it can change, installing is all this button does.
+        guard canSelectAutomatically else { return }
+        isWorking = true
+        let store = store
+        let saver = installer.destination
+        Task {
+            do throws(WallpaperStore.Failure) {
+                try await store.select(saver) { await WallpaperAgent.restart() }
+            } catch {
+                handle(error)
+            }
+            isWorking = false
+            refresh()
+        }
+    }
+
+    private func handle(_ failure: WallpaperStore.Failure) {
+        let log = Logger(subsystem: AppIdentity.bundleID, category: "screen saver")
+        switch failure {
+        case .cannotSelect(let reason):
+            log.notice("Could not choose the screen saver: \(reason, privacy: .public)")
+            automaticFailed = true
+            message = .notice("Installed, but it could not be chosen automatically.")
+        case .didNotTake:
+            log.error("macOS did not keep the screen saver choice; the wallpaper store was put back")
+            automaticFailed = true
+            message = .notice("macOS did not keep the change, so it was undone.")
+        case .restoreFailed(let reason):
+            log.error("Could not put the wallpaper store back: \(reason, privacy: .public)")
+            automaticFailed = true
+            message = .error("macOS did not keep the change, and the previous wallpaper settings could not be put back. A copy is at \(store.backup.path(percentEncoded: false)).")
+        }
+    }
+}
+
+/// The background process that draws the wallpaper and runs the screen saver.
+enum WallpaperAgent {
+    static let label = "com.apple.wallpaper.agent"
+
+    /// Restarts WallpaperAgent so it reads its store again. launchd starts it straight
+    /// back up; the desktop may blink while it does.
+    static func restart() async {
+        if await run("/bin/launchctl", ["kickstart", "-k", "gui/\(getuid())/\(label)"]) == 0 { return }
+        _ = await run("/usr/bin/killall", ["WallpaperAgent"])
+    }
+
+    /// Runs a command and returns its exit status, -1 if it could not start.
+    private static func run(_ path: String, _ arguments: [String]) async -> Int32 {
+        await withCheckedContinuation { continuation in
+            let process = Process()
+            process.executableURL = URL(filePath: path)
+            process.arguments = arguments
+            process.standardOutput = FileHandle.nullDevice
+            process.standardError = FileHandle.nullDevice
+            process.terminationHandler = { continuation.resume(returning: $0.terminationStatus) }
+            do {
+                try process.run()
+            } catch {
+                continuation.resume(returning: -1)
+            }
+        }
     }
 }
 

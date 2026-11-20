@@ -16,7 +16,10 @@ struct CardView: View {
             if let photo {
                 PhotoBackdrop(photo: photo, metrics: metrics)
             } else {
-                TypeBackdrop(metrics: metrics)
+                // No photo: the sport's own geometry, drawn once per card (the stopwatch dial before the first card).
+                SportBackdrop(motif: card.map { SportMotif(sport: $0.moment.sport) } ?? .dial,
+                              seed: backdropSeed(card?.moment.id ?? ""), size: metrics.size)
+                    .equatable()
             }
 
             if let card {
@@ -120,15 +123,18 @@ private struct BigTime: View {
 }
 
 /// Full bleed photo, aspect fill, under a gradient rising from the bottom so the type keeps its contrast.
+/// Landscape photos are centred; portrait ones are framed from near the top (see `PhotoFraming`).
 private struct PhotoBackdrop: View {
     let photo: CGImage
     let metrics: CardMetrics
 
     var body: some View {
+        let frame = PhotoFraming.rect(image: CGSize(width: photo.width, height: photo.height), filling: metrics.size)
         Image(decorative: photo, scale: 1)
             .resizable()
             .interpolation(.high)
-            .aspectRatio(contentMode: .fill)
+            .frame(width: frame.width, height: frame.height)
+            .offset(x: frame.midX - metrics.size.width / 2, y: frame.midY - metrics.size.height / 2)
             .frame(width: metrics.size.width, height: metrics.size.height)
             .clipped()
             .overlay {
@@ -146,16 +152,23 @@ private struct PhotoBackdrop: View {
     }
 }
 
-/// The ground for type only cards: night blue with a faint lift behind the lockup.
-private struct TypeBackdrop: View {
-    let metrics: CardMetrics
+/// Where an aspect fill photo sits on the card. Landscape and square photos are centred, as
+/// before. A portrait photo (taller than wide), usually an athlete, would lose the head to a
+/// centre crop, so the point a quarter of the way down the photo goes to the middle of the
+/// card instead, which keeps roughly the top third in view, never uncovering the card's edges.
+enum PhotoFraming {
+    /// The fraction of a portrait photo's height that is placed at the card's vertical middle.
+    static let portraitFocus: CGFloat = 0.25
 
-    var body: some View {
-        RadialGradient(
-            colors: [Color(red: 0x17 / 255, green: 0x22 / 255, blue: 0x36 / 255), Palette.ground],
-            center: UnitPoint(x: 0.2, y: 0.85),
-            startRadius: 0,
-            endRadius: metrics.unit * 0.75
-        )
+    /// The photo's rectangle in card coordinates. It always covers the whole card.
+    static func rect(image: CGSize, filling card: CGSize) -> CGRect {
+        guard image.width > 0, image.height > 0 else { return CGRect(origin: .zero, size: card) }
+        let scale = max(card.width / image.width, card.height / image.height)
+        let size = CGSize(width: image.width * scale, height: image.height * scale)
+        var y = (card.height - size.height) / 2
+        if image.height > image.width {
+            y = min(0, max(card.height - size.height, card.height / 2 - size.height * portraitFocus))
+        }
+        return CGRect(x: (card.width - size.width) / 2, y: y, width: size.width, height: size.height)
     }
 }

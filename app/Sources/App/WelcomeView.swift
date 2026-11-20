@@ -2,9 +2,10 @@ import MomentsCore
 import SwiftUI
 
 /// Shown once, over the clock window, on the first launch when the screen saver is not
-/// installed yet: install it, then choose it in System Settings.
+/// installed yet: one click installs it and makes it the screen saver. Where that cannot be
+/// done safely, it installs it and the user chooses it in System Settings.
 struct WelcomeView: View {
-    @State private var saver = SaverInstallState()
+    @State private var saver = ScreenSaverSetup()
     @Environment(\.dismiss) private var dismiss
 
     private static let shownKey = "didShowWelcome"
@@ -30,27 +31,47 @@ struct WelcomeView: View {
                 }
             }
 
-            Text("Install the screen saver, then choose it in System Settings under \(ScreenSaverActions.settingsPaneName).")
+            Text(saver.canSelectAutomatically
+                 ? "Use it as your screen saver in one click. You can change this any time in System Settings under \(ScreenSaverActions.settingsPaneName)."
+                 : "Install the screen saver, then choose it in System Settings under \(ScreenSaverActions.settingsPaneName).")
                 .fixedSize(horizontal: false, vertical: true)
-            if let error = saver.error {
-                Text(error).foregroundStyle(.red)
+            switch saver.message {
+            case .error(let text):
+                Text(text).foregroundStyle(.red)
+                    .fixedSize(horizontal: false, vertical: true)
+            case .notice(let text):
+                Text(text).foregroundStyle(.secondary)
+                    .fixedSize(horizontal: false, vertical: true)
+            case nil:
+                EmptyView()
             }
 
             HStack {
-                if isInstalled {
+                if saver.isDone {
+                    Label("Sporting Moments Clock is your screen saver", systemImage: "checkmark.circle.fill")
+                        .foregroundStyle(.secondary)
+                } else if saver.isWorking {
+                    ProgressView().controlSize(.small)
+                } else if saver.install == .upToDate {
                     Label("Installed", systemImage: "checkmark.circle.fill")
                         .foregroundStyle(.secondary)
                 }
                 Spacer()
-                Button(isInstalled ? "Done" : "Not Now") { dismiss() }
-                if isInstalled {
+                if saver.isDone {
+                    Button("Done") { dismiss() }
+                        .keyboardShortcut(.defaultAction)
+                } else if saver.install == .upToDate && !saver.canSelectAutomatically {
+                    Button("Done") { dismiss() }
                     Button("Open System Settings") {
                         ScreenSaverActions.openSettingsPane()
                         dismiss()
                     }
                     .keyboardShortcut(.defaultAction)
                 } else {
-                    Button("Install Screen Saver", action: saver.install)
+                    Button("Not Now") { dismiss() }
+                        .disabled(saver.isWorking)
+                    Button(saver.actionTitle, action: saver.useAsScreenSaver)
+                        .disabled(saver.actionDisabled)
                         .keyboardShortcut(.defaultAction)
                 }
             }
@@ -59,6 +80,4 @@ struct WelcomeView: View {
         .frame(width: 460)
         .onAppear(perform: saver.refresh)
     }
-
-    private var isInstalled: Bool { saver.status == .upToDate }
 }

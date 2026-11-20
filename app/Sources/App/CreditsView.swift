@@ -23,7 +23,7 @@ struct CreditsView: View {
                 Text("Sporting Moments Clock, version \(AppInfo.version)")
             }
 
-            Section("Photos from Wikimedia Commons") {
+            Section("Photos") {
                 ForEach(photos) { photo in
                     VStack(alignment: .leading, spacing: 3) {
                         Text(photo.caption)
@@ -57,16 +57,17 @@ struct CreditsView: View {
         }
         let captions = Dictionary(store.moments.map { ($0.id, $0.caption) }, uniquingKeysWith: { first, _ in first })
         return credits.map { credit in
-            let caption = credit.mainMomentID.flatMap { captions[$0] }.map(Card.typeset)
+            // A related photo shows a person or place, not the moment, so it is listed by its subject.
+            let caption = credit.subject ?? credit.mainMomentID.flatMap { captions[$0] }.map(Card.typeset)
             return Photo(credit: credit, caption: caption ?? credit.commonsFile)
         }
     }
 
-    /// "Photo: Author · CC BY-SA 4.0 · Wikimedia Commons", with the licence and the file page linked.
+    /// "Photo: Author · CC BY-SA 4.0 · Wikimedia Commons", with the licence and the source page linked.
     private func creditLine(for photo: PhotoCredit) -> AttributedString {
         var licence = AttributedString(photo.licence)
         licence.link = photo.licenceURL
-        var commons = AttributedString("Wikimedia Commons")
+        var commons = AttributedString(photo.sourceName)
         commons.link = photo.commonsPage
         return AttributedString("Photo: \(photo.author) · ") + licence + AttributedString(" · ") + commons
     }

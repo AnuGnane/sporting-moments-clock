@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-20T18:08:30Z",
+ "generated": "2026-11-20T20:56:41Z",
  "moments": [
   {
    "id": "M0001",
@@ -23,7 +23,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)",
-   "image": null
+   "image": {
+    "file": "M0001.jpg",
+    "credit": "Photo: Unknown author Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0002",
@@ -95,7 +98,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0004.jpg",
+    "credit": "Photo: Scanpix · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0005",
@@ -286,8 +292,8 @@
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final",
    "image": {
-    "file": "M0374.jpg",
-    "credit": "Photo from the same match: Unknown, Distributed by the Associated Press · Public domain · Wikimedia Commons"
+    "file": "M0012.jpg",
+    "credit": "Photo: Unknown author Unknown author · Public domain · Wikimedia Commons"
    }
   },
   {
@@ -380,7 +386,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0016.jpg",
+    "credit": "Photo: Bert Verhoeff / Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0017",
@@ -449,7 +458,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0019.jpg",
+    "credit": "Photo: El Gráfico · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0020",
@@ -495,7 +507,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1981_FA_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0021.jpg",
+    "credit": "Photo: Ricardo Alfieri (h) -credited- · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0022",
@@ -544,7 +559,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0023.jpg",
+    "credit": "Photo: Unknown author, El Gráfico · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0024",
@@ -619,7 +637,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0026.jpg",
+    "credit": "Photo: Unknown author Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0027",
@@ -711,7 +732,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/UEFA_Euro_1988_final",
-   "image": null
+   "image": {
+    "file": "M1087.jpg",
+    "credit": "Photo from the same match: Unknown author Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0031",
@@ -1171,7 +1195,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0050.jpg",
+    "credit": "Photo: Archives nationales · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0051",
@@ -1686,7 +1713,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0072.jpg",
+    "credit": "Photo: David Ruddell · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0073",
@@ -2024,7 +2054,7 @@
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2012_UEFA_Champions_League_final",
    "image": {
-    "file": "M1425.jpg",
+    "file": "M0087.jpg",
     "credit": "Photo from the same match: Markus Unger from Vienna, Austria · CC BY 2.0 · Wikimedia Commons"
    }
   },
@@ -2050,8 +2080,8 @@
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2012_UEFA_Champions_League_final",
    "image": {
-    "file": "M1425.jpg",
-    "credit": "Photo from the same match: Markus Unger from Vienna, Austria · CC BY 2.0 · Wikimedia Commons"
+    "file": "M0087.jpg",
+    "credit": "Photo: Markus Unger from Vienna, Austria · CC BY 2.0 · Wikimedia Commons"
    }
   },
   {
@@ -2510,7 +2540,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2018_UEFA_Champions_League_final",
-   "image": null
+   "image": {
+    "file": "M0106.jpg",
+    "credit": "Photo: Антон Зайцев · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0107",
@@ -3305,7 +3338,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2019_Ashes_series",
-   "image": null
+   "image": {
+    "file": "M0142.jpg",
+    "credit": "Photo: Ben Sutherland · CC BY 2.0 · Flickr"
+   }
   },
   {
    "id": "M0143",
@@ -3423,7 +3459,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Isner%E2%80%93Mahut_match_at_the_2010_Wimbledon_Championships",
-   "image": null
+   "image": {
+    "file": "M0149.jpg",
+    "credit": "Photo: Pahcal123 · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0150",
@@ -3469,7 +3508,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://bleacherreport.com/articles/1694854-wimbledon-2013-mens-final-tv-schedule-start-time-and-live-stream-info",
-   "image": null
+   "image": {
+    "file": "M0151.jpg",
+    "credit": "Photo: Robbie Dale · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0152",
@@ -3584,7 +3626,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2019_Wimbledon_Championships_%E2%80%93_Men's_singles_final",
-   "image": null
+   "image": {
+    "file": "M0156.jpg",
+    "credit": "Photo: Peter Menzel , edited version by Petar Milošević · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0157",
@@ -3630,7 +3675,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2025_French_Open_%E2%80%93_Men's_singles_final",
-   "image": null
+   "image": {
+    "file": "M0158.jpg",
+    "credit": "Photo: Like tears in rain · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0159",
@@ -3722,7 +3770,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_1960_Summer_Olympics_%E2%80%93_Men's_marathon",
-   "image": null
+   "image": {
+    "file": "M0162.jpg",
+    "credit": "Photo: Unknown author Unknown author (ANSA.it) · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0163",
@@ -3906,7 +3957,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_2008_Summer_Olympics_%E2%80%93_Men's_100_metres",
-   "image": null
+   "image": {
+    "file": "M0170.jpg",
+    "credit": "Photo: Jmex60 · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0171",
@@ -4099,7 +4153,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_2012_Summer_Olympics_%E2%80%93_Men's_800_metres",
-   "image": null
+   "image": {
+    "file": "M0178.jpg",
+    "credit": "Photo: Paul Rowlett from Sheffield, UK · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0179",
@@ -4171,7 +4228,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2018_Berlin_Marathon",
-   "image": null
+   "image": {
+    "file": "M0181.jpg",
+    "credit": "Photo: C.Suthorn · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0182",
@@ -4194,7 +4254,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Ineos_1:59_Challenge",
-   "image": null
+   "image": {
+    "file": "M0182.jpg",
+    "credit": "Photo: Triathlet 79 · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0183",
@@ -4240,7 +4303,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_2020_Summer_Olympics_%E2%80%93_Men's_high_jump",
-   "image": null
+   "image": {
+    "file": "M0184.jpg",
+    "credit": "Photo: Bob Ramsak · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0185",
@@ -4364,7 +4430,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Swimming_at_the_2008_Summer_Olympics_%E2%80%93_Men's_100_metre_butterfly",
-   "image": null
+   "image": {
+    "file": "M0189.jpg",
+    "credit": "Photo: Jmex60 · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0190",
@@ -4698,7 +4767,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Cal_Ripken_Jr.",
-   "image": null
+   "image": {
+    "file": "M0209.jpg",
+    "credit": "Photo: Uncredited; White House · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0210",
@@ -5153,7 +5225,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Thrilla_in_Manila",
-   "image": null
+   "image": {
+    "file": "M0231.jpg",
+    "credit": "Photo: Lawrence Schiller · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0232",
@@ -5648,7 +5723,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Hour_record",
-   "image": null
+   "image": {
+    "file": "M0259.jpg",
+    "credit": "Photo: Andrew Last · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0260",
@@ -5671,7 +5749,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2020_Tour_de_France",
-   "image": null
+   "image": {
+    "file": "M0260.jpg",
+    "credit": "Photo: filip bossuyt · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0261",
@@ -5694,7 +5775,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2024_Tour_de_France",
-   "image": null
+   "image": {
+    "file": "M0261.jpg",
+    "credit": "Photo: Chabe01 · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0262",
@@ -5993,7 +6077,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Isner%E2%80%93Mahut_match_at_the_2010_Wimbledon_Championships",
-   "image": null
+   "image": {
+    "file": "M0274.jpg",
+    "credit": "Photo: Tim Schofield · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0275",
@@ -6367,7 +6454,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Triathlon_at_the_2012_Summer_Olympics_%E2%80%93_Men's",
-   "image": null
+   "image": {
+    "file": "M0290.jpg",
+    "credit": "Photo: Alex Lomas · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0291",
@@ -6390,7 +6480,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Triathlon_at_the_2016_Summer_Olympics",
-   "image": null
+   "image": {
+    "file": "M0291.jpg",
+    "credit": "Photo: Tânia Rêgo/Agência Brasil · CC BY 3.0 br · Wikimedia Commons"
+   }
   },
   {
    "id": "M0292",
@@ -6413,7 +6506,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Triathlon_at_the_2024_Summer_Olympics",
-   "image": null
+   "image": {
+    "file": "M0292.jpg",
+    "credit": "Photo: Rz98 · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0293",
@@ -6721,7 +6817,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2008_Berlin_Marathon",
-   "image": null
+   "image": {
+    "file": "M0305.jpg",
+    "credit": "Photo: barosz · CC BY 2.0 · Flickr"
+   }
   },
   {
    "id": "M0306",
@@ -6744,7 +6843,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2014_Berlin_Marathon",
-   "image": null
+   "image": {
+    "file": "M0306.jpg",
+    "credit": "Photo: sebaso · CC BY-SA 2.0 · Flickr"
+   }
   },
   {
    "id": "M0307",
@@ -7127,7 +7229,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2006%E2%80%9307_Ashes_series",
-   "image": null
+   "image": {
+    "file": "M0322.jpg",
+    "credit": "Photo: Jona Nalder · CC BY 2.0 · Flickr"
+   }
   },
   {
    "id": "M0323",
@@ -7447,7 +7552,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2005_United_States_Grand_Prix",
-   "image": null
+   "image": {
+    "file": "M0335.jpg",
+    "credit": "Photo: Ryosuke Yagi · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0336",
@@ -7562,7 +7670,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Rowing_at_the_2012_Summer_Olympics_%E2%80%93_Women's_coxless_pair",
-   "image": null
+   "image": {
+    "file": "M0340.jpg",
+    "credit": "Photo: Paul Dunleavy · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0341",
@@ -8052,7 +8163,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0004.jpg",
+    "credit": "Photo from the same match: Scanpix · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0361",
@@ -8075,7 +8189,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0004.jpg",
+    "credit": "Photo from the same match: Scanpix · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0362",
@@ -8098,7 +8215,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0004.jpg",
+    "credit": "Photo from the same match: Scanpix · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0363",
@@ -8121,7 +8241,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0004.jpg",
+    "credit": "Photo from the same match: Scanpix · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0364",
@@ -8144,7 +8267,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0004.jpg",
+    "credit": "Photo from the same match: Scanpix · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0365",
@@ -8167,7 +8293,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0004.jpg",
+    "credit": "Photo from the same match: Scanpix · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0366",
@@ -8439,8 +8568,8 @@
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final",
    "image": {
-    "file": "M0374.jpg",
-    "credit": "Photo from the same match: Unknown, Distributed by the Associated Press · Public domain · Wikimedia Commons"
+    "file": "M0012.jpg",
+    "credit": "Photo from the same match: Unknown author Unknown author · Public domain · Wikimedia Commons"
    }
   },
   {
@@ -8490,7 +8619,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0016.jpg",
+    "credit": "Photo from the same match: Bert Verhoeff / Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0379",
@@ -8513,7 +8645,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0016.jpg",
+    "credit": "Photo from the same match: Bert Verhoeff / Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0380",
@@ -8536,7 +8671,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0019.jpg",
+    "credit": "Photo: El Gráfico · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0381",
@@ -8559,7 +8697,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0019.jpg",
+    "credit": "Photo: El Gráfico · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0382",
@@ -8582,7 +8723,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0019.jpg",
+    "credit": "Photo: El Gráfico · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0383",
@@ -8605,7 +8749,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0023.jpg",
+    "credit": "Photo from the same match: Unknown author, El Gráfico · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0384",
@@ -8628,7 +8775,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0023.jpg",
+    "credit": "Photo from the same match: Unknown author, El Gráfico · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0385",
@@ -8651,7 +8801,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1982_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0023.jpg",
+    "credit": "Photo from the same match: Unknown author, El Gráfico · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0386",
@@ -8674,7 +8827,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0386.jpg",
+    "credit": "Photo: Carlo Fumagalli · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0387",
@@ -8697,7 +8853,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0386.jpg",
+    "credit": "Photo from the same match: Carlo Fumagalli · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0388",
@@ -8720,7 +8879,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0386.jpg",
+    "credit": "Photo from the same match: Carlo Fumagalli · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0389",
@@ -8743,7 +8905,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0386.jpg",
+    "credit": "Photo from the same match: Carlo Fumagalli · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0390",
@@ -8789,7 +8954,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0050.jpg",
+    "credit": "Photo from the same match: Archives nationales · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0392",
@@ -8812,7 +8980,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0050.jpg",
+    "credit": "Photo from the same match: Archives nationales · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0393",
@@ -8858,7 +9029,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0072.jpg",
+    "credit": "Photo from the same match: David Ruddell · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0395",
@@ -8881,7 +9055,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0072.jpg",
+    "credit": "Photo from the same match: David Ruddell · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0396",
@@ -8904,7 +9081,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_final",
-   "image": null
+   "image": {
+    "file": "M0072.jpg",
+    "credit": "Photo from the same match: David Ruddell · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0397",
@@ -24781,7 +24961,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/UEFA_Euro_1984_final",
-   "image": null
+   "image": {
+    "file": "M1085.jpg",
+    "credit": "Photo: Unknown author Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M1086",
@@ -24827,7 +25010,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/UEFA_Euro_1988_final",
-   "image": null
+   "image": {
+    "file": "M1087.jpg",
+    "credit": "Photo: Unknown author Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M1088",
@@ -31149,7 +31335,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1981_European_Cup_final",
-   "image": null
+   "image": {
+    "file": "M1360.jpg",
+    "credit": "Photo: Nationaal Archief, Den Haag, Rijksfotoarchief: Fotocollectie Algemeen Nederlands Fotopersbureau (ANEFO), 1945-1989, negatiefstroken zwart/wit, nummer toegang 2.24.01.04, bestanddeelnummer 931-7501 · CC BY-SA 3.0 nl · Wikimedia Commons"
+   }
   },
   {
    "id": "M1361",
@@ -33179,7 +33368,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2018_UEFA_Champions_League_final",
-   "image": null
+   "image": {
+    "file": "M0106.jpg",
+    "credit": "Photo from the same match: Антон Зайцев · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M1446",
@@ -33202,7 +33394,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2018_UEFA_Champions_League_final",
-   "image": null
+   "image": {
+    "file": "M0106.jpg",
+    "credit": "Photo from the same match: Антон Зайцев · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M1447",
@@ -33225,7 +33420,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2018_UEFA_Champions_League_final",
-   "image": null
+   "image": {
+    "file": "M0106.jpg",
+    "credit": "Photo from the same match: Антон Зайцев · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M1448",
@@ -39334,7 +39532,10 @@
    "fame": 3,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_2008_Summer_Olympics_%E2%80%93_Men's_400_metres",
-   "image": null
+   "image": {
+    "file": "M1710.jpg",
+    "credit": "Photo: Jmex60 · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M1711",
@@ -40768,7 +40969,10 @@
    "fame": 1,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_2008_Summer_Olympics_%E2%80%93_Men's_marathon",
-   "image": null
+   "image": {
+    "file": "A005.jpg",
+    "credit": "Photo: Ian Holton from London, England · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "A006",
@@ -40837,7 +41041,10 @@
    "fame": 1,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_2024_Summer_Olympics_%E2%80%93_Men's_marathon",
-   "image": null
+   "image": {
+    "file": "A008.jpg",
+    "credit": "Photo: Chabe01 · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "A009",
@@ -40975,7 +41182,10 @@
    "fame": 1,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_2024_Summer_Olympics_%E2%80%93_Women's_marathon",
-   "image": null
+   "image": {
+    "file": "A014.jpg",
+    "credit": "Photo: VVVCFFrance · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "A015",
@@ -41228,7 +41438,10 @@
    "fame": 1,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2010_Winter_Olympics_%E2%80%93_Men's_downhill",
-   "image": null
+   "image": {
+    "file": "A025.jpg",
+    "credit": "Photo: Kevin Pedraja from Seattle, USA · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "A026",
@@ -41297,7 +41510,10 @@
    "fame": 1,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Swimming_at_the_2020_Summer_Olympics_%E2%80%93_Men's_1500_metre_freestyle",
-   "image": null
+   "image": {
+    "file": "A028.jpg",
+    "credit": "Photo: Власність Міністерства молоді та спорту України · CC BY 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "A029",
@@ -41435,7 +41651,10 @@
    "fame": 1,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2010_Winter_Olympics_%E2%80%93_Women's_downhill",
-   "image": null
+   "image": {
+    "file": "A034.jpg",
+    "credit": "Photo: US Mission Canada · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "A035",
@@ -41481,7 +41700,10 @@
    "fame": 1,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2014_Winter_Olympics_%E2%80%93_Women's_downhill",
-   "image": null
+   "image": {
+    "file": "A036.jpg",
+    "credit": "Photo: M. Smelter · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "A037",
@@ -41527,7 +41749,10 @@
    "fame": 1,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Alpine_skiing_at_the_2014_Winter_Olympics_%E2%80%93_Men's_downhill",
-   "image": null
+   "image": {
+    "file": "A038.jpg",
+    "credit": "Photo: Sergei Kazantsev · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "A039",
@@ -41780,7 +42005,10 @@
    "fame": 1,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_2016_Summer_Olympics_%E2%80%93_Women's_marathon",
-   "image": null
+   "image": {
+    "file": "A049.jpg",
+    "credit": "Photo: Citizen59 · CC BY 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "A050",
@@ -42608,7 +42836,10 @@
    "fame": 1,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/2023_Ryder_Cup",
-   "image": null
+   "image": {
+    "file": "N026.jpg",
+    "credit": "Photo: Cutkiller2018 · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "N027",

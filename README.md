@@ -12,8 +12,8 @@ Modelled on the literature clock, which shows a book quote for every minute of t
 
 1. Download `SportingMomentsClock-1.0.dmg` from the Releases page.
 2. Open it and drag the app to Applications.
-3. Open the app. It offers to install the screen saver.
-4. Choose Sporting Moments Clock in System Settings, under Wallpaper (Screen Saver on older versions of macOS).
+3. Open the app and click Use as Screen Saver. It installs the screen saver and selects it.
+4. If the app says it could not select it, choose Sporting Moments Clock in System Settings, under Wallpaper (Screen Saver on older versions of macOS).
 
 Requires macOS 14 or later. Runs on Apple silicon and Intel.
 
