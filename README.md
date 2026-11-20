@@ -66,7 +66,7 @@ cd app && xcodebuild test -scheme SportingMomentsClock -derivedDataPath build -d
 
 The code is under the MIT licence. See `LICENSE`.
 
-The photos are not covered by that licence. They come from Wikimedia Commons, each under its own licence, mostly Creative Commons Attribution or Attribution ShareAlike, and some in the public domain. Every photo's author, licence and source page is listed in `data/overrides/images.csv` and in the app's Credits window. If you reuse a photo, follow its licence.
+The photos are not covered by that licence. Almost all come from Wikimedia Commons and a few from Flickr, each under its own licence, mostly Creative Commons Attribution or Attribution ShareAlike, and some in the public domain. Every photo's author, licence and source page is listed in `data/overrides/images.csv` and `data/overrides/images_other.csv`, and in the app's Credits window. If you reuse a photo, follow its licence.
 
 The fonts are Barlow Condensed and Newsreader, under the SIL Open Font License.
 
