@@ -123,20 +123,24 @@ private struct BigTime: View {
 }
 
 /// Full bleed photo, aspect fill, under a gradient rising from the bottom so the type keeps its contrast.
-/// Landscape photos are centred; portrait ones are framed from near the top (see `PhotoFraming`).
+/// Landscape photos fill the card, centred. A portrait photo on a wide card is shown whole as a
+/// panel at the right edge; where that does not fit it fills the card, framed from near the top
+/// (see `PhotoFraming`).
 private struct PhotoBackdrop: View {
     let photo: CGImage
     let metrics: CardMetrics
 
     var body: some View {
-        let frame = PhotoFraming.rect(image: CGSize(width: photo.width, height: photo.height), filling: metrics.size)
-        Image(decorative: photo, scale: 1)
-            .resizable()
-            .interpolation(.high)
-            .frame(width: frame.width, height: frame.height)
-            .offset(x: frame.midX - metrics.size.width / 2, y: frame.midY - metrics.size.height / 2)
-            .frame(width: metrics.size.width, height: metrics.size.height)
-            .clipped()
+        let image = CGSize(width: photo.width, height: photo.height)
+        if let panel = PhotoFraming.panel(image: image, on: metrics.size) {
+            sidePanel(panel)
+        } else {
+            fullBleed(PhotoFraming.rect(image: image, filling: metrics.size))
+        }
+    }
+
+    private func fullBleed(_ frame: CGRect) -> some View {
+        placed(frame)
             .overlay {
                 LinearGradient(
                     stops: [
@@ -150,6 +154,45 @@ private struct PhotoBackdrop: View {
                 )
             }
     }
+
+    /// A tall photo, usually a portrait of an athlete, shown whole at the right edge. Its left
+    /// side fades into the ground so the lockup on the left stays on a calm surface.
+    private func sidePanel(_ frame: CGRect) -> some View {
+        let fadeEnd = (frame.minX + frame.width * 0.55) / metrics.size.width
+        return ZStack {
+            Palette.ground
+            placed(frame)
+            LinearGradient(
+                stops: [
+                    .init(color: Palette.ground, location: 0),
+                    .init(color: Palette.ground, location: frame.minX / metrics.size.width),
+                    .init(color: Palette.ground.opacity(0.0), location: fadeEnd),
+                    .init(color: Palette.ground.opacity(0.15), location: 1),
+                ],
+                startPoint: .leading, endPoint: .trailing
+            )
+            LinearGradient(
+                stops: [
+                    .init(color: Palette.ground.opacity(0.85), location: 0),
+                    .init(color: Palette.ground.opacity(0.35), location: 0.3),
+                    .init(color: Palette.ground.opacity(0.1), location: 0.6),
+                    .init(color: Palette.ground.opacity(0.25), location: 1),
+                ],
+                startPoint: .bottom, endPoint: .top
+            )
+        }
+        .frame(width: metrics.size.width, height: metrics.size.height)
+    }
+
+    private func placed(_ frame: CGRect) -> some View {
+        Image(decorative: photo, scale: 1)
+            .resizable()
+            .interpolation(.high)
+            .frame(width: frame.width, height: frame.height)
+            .offset(x: frame.midX - metrics.size.width / 2, y: frame.midY - metrics.size.height / 2)
+            .frame(width: metrics.size.width, height: metrics.size.height)
+            .clipped()
+    }
 }
 
 /// Where an aspect fill photo sits on the card. Landscape and square photos are centred, as
@@ -159,6 +202,19 @@ private struct PhotoBackdrop: View {
 enum PhotoFraming {
     /// The fraction of a portrait photo's height that is placed at the card's vertical middle.
     static let portraitFocus: CGFloat = 0.25
+
+    /// A photo shown whole takes at most this share of the card's width as a side panel.
+    static let panelMaxWidth: CGFloat = 0.6
+
+    /// Where a tall photo sits when it is shown whole at the right edge of a wide card, or nil
+    /// when the photo should fill the card. A portrait blown up to fill a wide screen shows
+    /// little more than a face, behind the text; as a panel it keeps the whole figure.
+    static func panel(image: CGSize, on card: CGSize) -> CGRect? {
+        guard image.width > 0, image.height > image.width, card.width > card.height else { return nil }
+        let width = card.height * image.width / image.height
+        guard width <= card.width * panelMaxWidth else { return nil }
+        return CGRect(x: card.width - width, y: 0, width: width, height: card.height)
+    }
 
     /// The photo's rectangle in card coordinates. It always covers the whole card.
     static func rect(image: CGSize, filling card: CGSize) -> CGRect {

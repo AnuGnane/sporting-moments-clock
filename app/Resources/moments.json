@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated": "2026-11-20T20:56:41Z",
+ "generated": "2026-11-21T02:52:01Z",
  "moments": [
   {
    "id": "M0001",
@@ -25,7 +25,7 @@
    "sourceURL": "https://en.wikipedia.org/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)",
    "image": {
     "file": "M0001.jpg",
-    "credit": "Photo: Unknown author Unknown author · Public domain · Wikimedia Commons"
+    "credit": "Photo: Unknown author · Public domain · Wikimedia Commons"
    }
   },
   {
@@ -293,7 +293,7 @@
    "sourceURL": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final",
    "image": {
     "file": "M0012.jpg",
-    "credit": "Photo: Unknown author Unknown author · Public domain · Wikimedia Commons"
+    "credit": "Photo: Unknown author · Public domain · Wikimedia Commons"
    }
   },
   {
@@ -639,7 +639,7 @@
    "sourceURL": "https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final",
    "image": {
     "file": "M0026.jpg",
-    "credit": "Photo: Unknown author Unknown author · Public domain · Wikimedia Commons"
+    "credit": "Photo: Unknown author · Public domain · Wikimedia Commons"
    }
   },
   {
@@ -734,7 +734,7 @@
    "sourceURL": "https://en.wikipedia.org/wiki/UEFA_Euro_1988_final",
    "image": {
     "file": "M1087.jpg",
-    "credit": "Photo from the same match: Unknown author Unknown author · Public domain · Wikimedia Commons"
+    "credit": "Photo from the same match: Unknown author · Public domain · Wikimedia Commons"
    }
   },
   {
@@ -3747,7 +3747,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Roger_Bannister",
-   "image": null
+   "image": {
+    "file": "p_roger_bannister.jpg",
+    "credit": "Pictured: Roger Bannister in 2009 · Photo: Pruneau · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0162",
@@ -3772,7 +3775,7 @@
    "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_1960_Summer_Olympics_%E2%80%93_Men's_marathon",
    "image": {
     "file": "M0162.jpg",
-    "credit": "Photo: Unknown author Unknown author (ANSA.it) · Public domain · Wikimedia Commons"
+    "credit": "Photo: Unknown author (ANSA.it) · Public domain · Wikimedia Commons"
    }
   },
   {
@@ -3983,7 +3986,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Athletics_at_the_2008_Summer_Olympics_%E2%80%93_Men's_200_metres",
-   "image": null
+   "image": {
+    "file": "p_usain_bolt.jpg",
+    "credit": "Pictured: Usain Bolt in 2013 · Photo: Neil · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0172",
@@ -4006,7 +4012,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2009_World_Championships_in_Athletics_%E2%80%93_Men's_100_metres",
-   "image": null
+   "image": {
+    "file": "p_usain_bolt.jpg",
+    "credit": "Pictured: Usain Bolt in 2013 · Photo: Neil · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0173",
@@ -4029,7 +4038,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2009_World_Championships_in_Athletics_%E2%80%93_Men's_200_metres",
-   "image": null
+   "image": {
+    "file": "p_usain_bolt.jpg",
+    "credit": "Pictured: Usain Bolt in 2013 · Photo: Neil · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0174",
@@ -5962,7 +5974,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://www.tennis.com/baseline/articles/u-s-wins-second-latest-match-finish-ever-in-madrid",
-   "image": null
+   "image": {
+    "file": "r_430c24de.jpg",
+    "credit": "Pictured: Spain v Croatia at the same 2019 Davis Cup Finals · Photo: Miguelazo84 · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0270",
@@ -5985,7 +6000,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://www.washingtontimes.com/news/2012/jun/30/murray-wins-match-with-latest-finish/",
-   "image": null
+   "image": {
+    "file": "r_73eb99ba.jpg",
+    "credit": "Pictured: the Centre Court royal box that day · Photo: Levg · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0271",
@@ -6149,7 +6167,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2018_World_Series",
-   "image": null
+   "image": {
+    "file": "r_555a00c4.jpg",
+    "credit": "Pictured: Max Muncy in 2018 · Photo: Ian D'Andrea · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0278",
@@ -6172,7 +6193,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2001_World_Series",
-   "image": null
+   "image": {
+    "file": "r_0cc25de6.jpg",
+    "credit": "Pictured: Derek Jeter in 2008 · Photo: Keith Allison · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0279",
@@ -6195,7 +6219,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2004_American_League_Championship_Series",
-   "image": null
+   "image": {
+    "file": "r_3cb127d4.jpg",
+    "credit": "Pictured: David Ortiz in 2013 · Photo: Keith Allison from Hanover, MD, USA · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0280",
@@ -6408,7 +6435,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Triathlon_at_the_2020_Summer_Olympics",
-   "image": null
+   "image": {
+    "file": "r_1c71a71c.jpg",
+    "credit": "Pictured: Georgia Taylor-Brown in 2013 · Photo: AdamKR · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0289",
@@ -6578,7 +6608,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Barkley_Marathons",
-   "image": null
+   "image": {
+    "file": "r_f0730f70.jpg",
+    "credit": "Pictured: the Barkley Marathons start in 2009 · Photo: Michael Hodge · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0296",
@@ -6601,7 +6634,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Western_States_Endurance_Run",
-   "image": null
+   "image": {
+    "file": "r_d237de18.jpg",
+    "credit": "Pictured: the Western States finish line in 2011 · Photo: Trackinfo · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0297",
@@ -6624,7 +6660,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Western_States_Endurance_Run",
-   "image": null
+   "image": {
+    "file": "r_d237de18.jpg",
+    "credit": "Pictured: the Western States finish line in 2011 · Photo: Trackinfo · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0298",
@@ -6647,7 +6686,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Ultra-Trail_du_Mont-Blanc",
-   "image": null
+   "image": {
+    "file": "r_cdc6b65d.jpg",
+    "credit": "Pictured: a UTMB checkpoint in 2005 · Photo: Thierry Braun · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0299",
@@ -6670,7 +6712,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Ultra-Trail_du_Mont-Blanc",
-   "image": null
+   "image": {
+    "file": "r_cdc6b65d.jpg",
+    "credit": "Pictured: a UTMB checkpoint in 2005 · Photo: Thierry Braun · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0300",
@@ -6742,7 +6787,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2024_Chicago_Marathon",
-   "image": null
+   "image": {
+    "file": "p_ruth_chepng_etich.jpg",
+    "credit": "Pictured: Ruth Chepng'etich in 2021 · Photo: Clark Adams · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0303",
@@ -7206,7 +7254,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/El_Capitan",
-   "image": null
+   "image": {
+    "file": "r_e944108c.jpg",
+    "credit": "Pictured: climbers on El Capitan in 2017 · Photo: C-M · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0322",
@@ -7255,7 +7306,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2021%E2%80%9322_Ashes_series",
-   "image": null
+   "image": {
+    "file": "r_66d604e9.jpg",
+    "credit": "Pictured: the Boxing Day Test of the same Ashes series · Photo: Neb · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0324",
@@ -7431,7 +7485,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1991_24_Hours_of_Le_Mans",
-   "image": null
+   "image": {
+    "file": "r_31c0e3b3.jpg",
+    "credit": "Pictured: the Mazda 787B in the Le Mans museum · Photo: DgOlsen · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0331",
@@ -7480,7 +7537,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1967_24_Hours_of_Le_Mans",
-   "image": null
+   "image": {
+    "file": "r_a3719cf9.jpg",
+    "credit": "Pictured: a Ford GT40 Mk IV · Photo: Sandypineman ( talk ) · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "M0333",
@@ -7624,7 +7684,10 @@
    "fame": 1,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/2006_World_Snooker_Championship",
-   "image": null
+   "image": {
+    "file": "r_0c908e02.jpg",
+    "credit": "Pictured: Graeme Dott in 2014 · Photo: Martin Rulsch , Wikimedia Commons · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "M0339",
@@ -8569,7 +8632,7 @@
    "sourceURL": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup_final",
    "image": {
     "file": "M0012.jpg",
-    "credit": "Photo from the same match: Unknown author Unknown author · Public domain · Wikimedia Commons"
+    "credit": "Photo from the same match: Unknown author · Public domain · Wikimedia Commons"
    }
   },
   {
@@ -24963,7 +25026,7 @@
    "sourceURL": "https://en.wikipedia.org/wiki/UEFA_Euro_1984_final",
    "image": {
     "file": "M1085.jpg",
-    "credit": "Photo: Unknown author Unknown author · Public domain · Wikimedia Commons"
+    "credit": "Photo: Unknown author · Public domain · Wikimedia Commons"
    }
   },
   {
@@ -25012,7 +25075,7 @@
    "sourceURL": "https://en.wikipedia.org/wiki/UEFA_Euro_1988_final",
    "image": {
     "file": "M1087.jpg",
-    "credit": "Photo: Unknown author Unknown author · Public domain · Wikimedia Commons"
+    "credit": "Photo: Unknown author · Public domain · Wikimedia Commons"
    }
   },
   {
@@ -42931,7 +42994,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sebastian_coe.jpg",
+    "credit": "Pictured: Sebastian Coe in 2012 · Photo: World Economic Forum, cropped by Connormah · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R003",
@@ -42954,7 +43020,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sebastian_coe.jpg",
+    "credit": "Pictured: Sebastian Coe in 2012 · Photo: World Economic Forum, cropped by Connormah · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R004",
@@ -42977,7 +43046,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_alberto_juantorena.jpg",
+    "credit": "Pictured: Alberto Juantorena in 2007 · Photo: Eckhard Pecher ( Arcimboldo ) · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "R005",
@@ -43023,7 +43095,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_roger_moens.jpg",
+    "credit": "Pictured: Roger Moens in 1957 · Photo: Harry Pot · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R007",
@@ -43184,7 +43259,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_tatyana_kazankina.jpg",
+    "credit": "Pictured: Tatyana Kazankina in 2019 · Photo: Спорт День за Днем · CC BY 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R014",
@@ -43253,7 +43331,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Marathon_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sabastian_sawe.jpg",
+    "credit": "Pictured: Sabastian Sawe in 2025 · Photo: Leonhard Lenz · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R024",
@@ -43276,7 +43357,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_high_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_yaroslava_mahuchikh.jpg",
+    "credit": "Pictured: Yaroslava Mahuchikh in 2026 · Photo: Quejaytee · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R026",
@@ -43299,7 +43383,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Marathon_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_abebe_bikila.jpg",
+    "credit": "Pictured: Abebe Bikila in 1968 · Photo: Anefo Derivative work MagentaGreen · CC BY-SA 3.0 nl · Wikimedia Commons"
+   }
   },
   {
    "id": "R030",
@@ -43506,7 +43593,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_high_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_dwight_stones.jpg",
+    "credit": "Pictured: Dwight Stones in 1974 · Photo: Unknown (UPI) · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R039",
@@ -43575,7 +43665,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_high_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_patrik_sjoberg.jpg",
+    "credit": "Pictured: Patrik Sjöberg in 2013 · Photo: Frankie Fouganthin · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R042",
@@ -43598,7 +43691,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_high_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_javier_sotomayor.jpg",
+    "credit": "Pictured: Javier Sotomayor in 2009 · Photo: ZBOBZ · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R043",
@@ -43851,7 +43947,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1500_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_herb_elliott.jpg",
+    "credit": "Pictured: Herb Elliott in 1960 · Photo: collezione capuano · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R054",
@@ -43874,7 +43973,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1500_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_herb_elliott.jpg",
+    "credit": "Pictured: Herb Elliott in 1960 · Photo: collezione capuano · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R055",
@@ -43966,7 +44068,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Mile_run_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sebastian_coe.jpg",
+    "credit": "Pictured: Sebastian Coe in 2012 · Photo: World Economic Forum, cropped by Connormah · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R059",
@@ -44035,7 +44140,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1500_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_genzebe_dibaba.jpg",
+    "credit": "Pictured: Genzebe Dibaba in 2016 · Photo: Ajuntament de Sabadell · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R062",
@@ -44127,7 +44235,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/1500_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_tatyana_kazankina.jpg",
+    "credit": "Pictured: Tatyana Kazankina in 2019 · Photo: Спорт День за Днем · CC BY 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R067",
@@ -44380,7 +44491,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_yelena_isinbayeva.jpg",
+    "credit": "Pictured: Yelena Isinbayeva in 2007 · Photo: Eckhard Pecher ( Arcimboldo ) · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "R078",
@@ -44403,7 +44517,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_yelena_isinbayeva.jpg",
+    "credit": "Pictured: Yelena Isinbayeva in 2007 · Photo: Eckhard Pecher ( Arcimboldo ) · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "R079",
@@ -44426,7 +44543,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_yelena_isinbayeva.jpg",
+    "credit": "Pictured: Yelena Isinbayeva in 2007 · Photo: Eckhard Pecher ( Arcimboldo ) · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "R080",
@@ -44449,7 +44569,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_yelena_isinbayeva.jpg",
+    "credit": "Pictured: Yelena Isinbayeva in 2007 · Photo: Eckhard Pecher ( Arcimboldo ) · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "R081",
@@ -44472,7 +44595,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_yelena_isinbayeva.jpg",
+    "credit": "Pictured: Yelena Isinbayeva in 2007 · Photo: Eckhard Pecher ( Arcimboldo ) · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "R082",
@@ -44495,7 +44621,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_john_pennel.jpg",
+    "credit": "Pictured: John Pennel in 1965 · Photo: Unknown (Associated Press) · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R083",
@@ -44541,7 +44670,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_john_pennel.jpg",
+    "credit": "Pictured: John Pennel in 1965 · Photo: Unknown (Associated Press) · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R085",
@@ -44610,7 +44742,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_john_pennel.jpg",
+    "credit": "Pictured: John Pennel in 1965 · Photo: Unknown (Associated Press) · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R088",
@@ -44679,7 +44814,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sergey_bubka.jpg",
+    "credit": "Pictured: Sergey Bubka in 2013 · Photo: Vinod Divakaran / Doha Stadium Plus Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R091",
@@ -44702,7 +44840,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sergey_bubka.jpg",
+    "credit": "Pictured: Sergey Bubka in 2013 · Photo: Vinod Divakaran / Doha Stadium Plus Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R092",
@@ -44725,7 +44866,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sergey_bubka.jpg",
+    "credit": "Pictured: Sergey Bubka in 2013 · Photo: Vinod Divakaran / Doha Stadium Plus Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R093",
@@ -44748,7 +44892,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sergey_bubka.jpg",
+    "credit": "Pictured: Sergey Bubka in 2013 · Photo: Vinod Divakaran / Doha Stadium Plus Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R094",
@@ -44771,7 +44918,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sergey_bubka.jpg",
+    "credit": "Pictured: Sergey Bubka in 2013 · Photo: Vinod Divakaran / Doha Stadium Plus Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R095",
@@ -44794,7 +44944,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_armand_duplantis.jpg",
+    "credit": "Pictured: Armand Duplantis in 2026 · Photo: Quejaytee · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R097",
@@ -44817,7 +44970,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_armand_duplantis.jpg",
+    "credit": "Pictured: Armand Duplantis in 2026 · Photo: Quejaytee · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R098",
@@ -44840,7 +44996,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_armand_duplantis.jpg",
+    "credit": "Pictured: Armand Duplantis in 2026 · Photo: Quejaytee · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R099",
@@ -44863,7 +45022,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_armand_duplantis.jpg",
+    "credit": "Pictured: Armand Duplantis in 2026 · Photo: Quejaytee · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R100",
@@ -44886,7 +45048,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_long_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_anisoara_cusmir.jpg",
+    "credit": "Pictured: Anişoara Cuşmir in 1984 · Photo: Unknown (Comitetul Olimpic si Sportiv Roman) · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R101",
@@ -44909,7 +45074,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/3000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_jakob_ingebrigtsen.jpg",
+    "credit": "Pictured: Jakob Ingebrigtsen in 2017 · Photo: Chell Hill · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R102",
@@ -44955,7 +45123,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_long_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_anisoara_cusmir.jpg",
+    "credit": "Pictured: Anişoara Cuşmir in 1984 · Photo: Unknown (Comitetul Olimpic si Sportiv Roman) · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R104",
@@ -45001,7 +45172,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_long_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_anisoara_cusmir.jpg",
+    "credit": "Pictured: Anişoara Cuşmir in 1984 · Photo: Unknown (Comitetul Olimpic si Sportiv Roman) · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R106",
@@ -45070,7 +45244,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_long_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_anisoara_cusmir.jpg",
+    "credit": "Pictured: Anişoara Cuşmir in 1984 · Photo: Unknown (Comitetul Olimpic si Sportiv Roman) · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R109",
@@ -45116,7 +45293,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_long_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_jackie_joyner_kersee.jpg",
+    "credit": "Pictured: Jackie Joyner-Kersee in 1987 · Photo: Steve Dykes, Los Angeles Times · CC BY 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R111",
@@ -45162,7 +45342,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/3000_metres_steeplechase_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_saif_saaeed_shaheen.jpg",
+    "credit": "Pictured: Saif Saaeed Shaheen in 2009 · Photo: Mohan · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R113",
@@ -45208,7 +45391,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/3000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_gunder_hagg.jpg",
+    "credit": "Pictured: Gunder Hägg in 1943 · Photo: Unknown · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R115",
@@ -45461,7 +45647,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/3000_metres_steeplechase_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_beatrice_chepkoech.jpg",
+    "credit": "Pictured: Beatrice Chepkoech in 2018 · Photo: Bob Ramsak · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R126",
@@ -45806,7 +45995,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_100_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_charley_paddock.jpg",
+    "credit": "Pictured: Charley Paddock in 1920 · Photo: Agence Rol · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R142",
@@ -45829,7 +46021,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_100_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_florence_griffith_joyner.jpg",
+    "credit": "Pictured: Florence Griffith Joyner in 1988 · Photo: Courtesy Ronald Reagan Library · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R143",
@@ -45921,7 +46116,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_100_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_irena_kirszenstein.jpg",
+    "credit": "Pictured: Irena Kirszenstein in 1975 · Photo: Bert Verhoeff for Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R147",
@@ -45944,7 +46142,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_100_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_wilma_rudolph.jpg",
+    "credit": "Pictured: Wilma Rudolph in 1960 · Photo: Lindeboom, Henk / Anefo · CC BY-SA 3.0 nl · Wikimedia Commons"
+   }
   },
   {
    "id": "R148",
@@ -46013,7 +46214,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_100_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_fanny_blankers_koen.jpg",
+    "credit": "Pictured: Fanny Blankers-Koen in 1949 · Photo: Daan Noske / Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R151",
@@ -46059,7 +46263,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_100_metres_hurdles_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_tobi_amusan.jpg",
+    "credit": "Pictured: Tobi Amusan in 2024 · Photo: Owula kpakpo · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R153",
@@ -46197,7 +46404,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/5000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_kenenisa_bekele.jpg",
+    "credit": "Pictured: Kenenisa Bekele in 2012 · Photo: Ian Robertson · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R159",
@@ -46220,7 +46430,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/5000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_haile_gebrselassie.jpg",
+    "credit": "Pictured: Haile Gebrselassie in 2010 · Photo: Anto1210 · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R160",
@@ -46243,7 +46456,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/5000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_haile_gebrselassie.jpg",
+    "credit": "Pictured: Haile Gebrselassie in 2010 · Photo: Anto1210 · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R161",
@@ -46335,7 +46551,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/5000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_haile_gebrselassie.jpg",
+    "credit": "Pictured: Haile Gebrselassie in 2010 · Photo: Anto1210 · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R165",
@@ -46427,7 +46646,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/5000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_kipchoge_keino.jpg",
+    "credit": "Pictured: Kipchoge Keino in 2014 · Photo: Ralf Roletschek · CC BY 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R169",
@@ -46634,7 +46856,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/5000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_meseret_defar.jpg",
+    "credit": "Pictured: Meseret Defar in 2016 · Photo: filip bossuyt from Kortrijk, Belgium · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R178",
@@ -46657,7 +46882,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/5000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_lauri_lehtinen.jpg",
+    "credit": "Pictured: Lauri Lehtinen in 1931 · Photo: Agence de presse Meurisse · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R179",
@@ -46979,7 +47207,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_shot_put_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_parry_o_brien.jpg",
+    "credit": "Pictured: Parry O'Brien in 1951 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R197",
@@ -47002,7 +47233,10 @@
    "fame": 4,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_shot_put_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_dallas_long.jpg",
+    "credit": "Pictured: Dallas Long in 1960 · Photo: UPI · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R198",
@@ -47025,7 +47259,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_200_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_florence_griffith_joyner.jpg",
+    "credit": "Pictured: Florence Griffith Joyner in 1988 · Photo: Courtesy Ronald Reagan Library · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "R199",
@@ -47048,7 +47285,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_shot_put_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_ryan_crouser.jpg",
+    "credit": "Pictured: Ryan Crouser in 2019 · Photo: jenaragon94 · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "R200",
@@ -47071,7 +47311,10 @@
    "fame": 2,
    "fameSub": 0,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_shot_put_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_ryan_crouser.jpg",
+    "credit": "Pictured: Ryan Crouser in 2019 · Photo: jenaragon94 · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X001",
@@ -47163,7 +47406,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Mark_Spitz",
-   "image": null
+   "image": {
+    "file": "p_mark_spitz.jpg",
+    "credit": "Pictured: Mark Spitz in 2012 · Photo: Vinod Divakaran, Doha Stadium Plus Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X005",
@@ -47186,7 +47432,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Michael_Phelps",
-   "image": null
+   "image": {
+    "file": "p_michael_phelps.jpg",
+    "credit": "Pictured: Michael Phelps in 2016 · Photo: Agência Brasil Fotografias · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X006",
@@ -47209,7 +47458,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Martina_Navratilova",
-   "image": null
+   "image": {
+    "file": "p_martina_navratilova.jpg",
+    "credit": "Pictured: Martina Navratilova in 2024 · Photo: Barcex · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X007",
@@ -47232,7 +47484,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Novak_Djokovic",
-   "image": null
+   "image": {
+    "file": "p_novak_djokovic.jpg",
+    "credit": "Pictured: Novak Djokovic in 2024 · Photo: Andymiah · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X008",
@@ -47278,7 +47533,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Just_Fontaine",
-   "image": null
+   "image": {
+    "file": "p_just_fontaine.jpg",
+    "credit": "Pictured: Just Fontaine in 1966 · Photo: André Cros · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X010",
@@ -47301,7 +47559,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Rafael_Nadal",
-   "image": null
+   "image": {
+    "file": "p_rafael_nadal.jpg",
+    "credit": "Pictured: Rafael Nadal in 2024 · Photo: Barcex · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X011",
@@ -47324,7 +47585,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Tiger_Woods",
-   "image": null
+   "image": {
+    "file": "p_tiger_woods.jpg",
+    "credit": "Pictured: Tiger Woods in 2009 · Photo: www.Pixel.la Free Stock Photos · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X012",
@@ -47347,7 +47611,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Miroslav_Klose",
-   "image": null
+   "image": {
+    "file": "p_miroslav_klose.jpg",
+    "credit": "Pictured: Miroslav Klose in 2016 · Photo: Sven Mandel · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X013",
@@ -47393,7 +47660,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Jack_Nicklaus",
-   "image": null
+   "image": {
+    "file": "p_jack_nicklaus.jpg",
+    "credit": "Pictured: Jack Nicklaus in 2022 · Photo: PantherNational · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X015",
@@ -47439,7 +47709,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Tony_McCoy",
-   "image": null
+   "image": {
+    "file": "p_tony_mccoy.jpg",
+    "credit": "Pictured: Tony McCoy in 2013 · Photo: Sinn Féin · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X017",
@@ -47462,7 +47735,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/FIFA_World_Cup_top_goalscorers",
-   "image": null
+   "image": {
+    "file": "p_kylian_mbappe.jpg",
+    "credit": "Pictured: Kylian Mbappé in 2026 · Photo: Bryan Berlin · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X018",
@@ -47485,7 +47761,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Michael_Phelps",
-   "image": null
+   "image": {
+    "file": "p_michael_phelps.jpg",
+    "credit": "Pictured: Michael Phelps in 2016 · Photo: Agência Brasil Fotografias · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X019",
@@ -47508,7 +47787,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Novak_Djokovic",
-   "image": null
+   "image": {
+    "file": "p_novak_djokovic.jpg",
+    "credit": "Pictured: Novak Djokovic in 2024 · Photo: Andymiah · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X020",
@@ -47531,7 +47813,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Joe_Louis",
-   "image": null
+   "image": {
+    "file": "p_joe_louis.jpg",
+    "credit": "Pictured: Joe Louis in 1941 · Photo: Carl Van Vechten · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X021",
@@ -47577,7 +47862,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Michael_Phelps",
-   "image": null
+   "image": {
+    "file": "p_michael_phelps.jpg",
+    "credit": "Pictured: Michael Phelps in 2016 · Photo: Agência Brasil Fotografias · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X023",
@@ -47646,7 +47934,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Erling_Haaland",
-   "image": null
+   "image": {
+    "file": "p_erling_haaland.jpg",
+    "credit": "Pictured: Erling Haaland in 2026 · Photo: Bryan Berlin · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X026",
@@ -47876,7 +48167,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Rocky_Marciano",
-   "image": null
+   "image": {
+    "file": "p_rocky_marciano.jpg",
+    "credit": "Pictured: Rocky Marciano in 1952 · Photo: Associated Press · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X036",
@@ -47922,7 +48216,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Sachin_Tendulkar",
-   "image": null
+   "image": {
+    "file": "p_sachin_tendulkar.jpg",
+    "credit": "Pictured: Sachin Tendulkar in 2016 · Photo: British High Commission, New Delhi · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X038",
@@ -47968,7 +48265,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Joe_DiMaggio's_56-game_hitting_streak",
-   "image": null
+   "image": {
+    "file": "p_joe_dimaggio.jpg",
+    "credit": "Pictured: Joe DiMaggio in 1941 · Photo: Tom Sande · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X040",
@@ -47991,7 +48291,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Half_marathon_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_yomif_kejelcha.jpg",
+    "credit": "Pictured: Yomif Kejelcha in 2023 · Photo: filip bossuyt from Kortrijk, Belgium · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X041",
@@ -48014,7 +48317,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Jim_Furyk",
-   "image": null
+   "image": {
+    "file": "p_jim_furyk.jpg",
+    "credit": "Pictured: Jim Furyk in 2025 · Photo: Bryan Berlin · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X042",
@@ -48060,7 +48366,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_100_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_dawn_fraser.jpg",
+    "credit": "Pictured: Dawn Fraser in 1960 · Photo: Harry Pot for Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X044",
@@ -48083,7 +48392,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_100_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_dawn_fraser.jpg",
+    "credit": "Pictured: Dawn Fraser in 1960 · Photo: Harry Pot for Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X045",
@@ -48106,7 +48418,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_100_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_dawn_fraser.jpg",
+    "credit": "Pictured: Dawn Fraser in 1960 · Photo: Harry Pot for Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X046",
@@ -48129,7 +48444,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Half_marathon_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_abebe_bikila.jpg",
+    "credit": "Pictured: Abebe Bikila in 1968 · Photo: Anefo Derivative work MagentaGreen · CC BY-SA 3.0 nl · Wikimedia Commons"
+   }
   },
   {
    "id": "X047",
@@ -48267,7 +48585,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Walter_Johnson",
-   "image": null
+   "image": {
+    "file": "p_walter_johnson.jpg",
+    "credit": "Pictured: Walter Johnson in 1924 · Photo: William Henry Jackson · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X053",
@@ -48336,7 +48657,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_1000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_eric_heiden.jpg",
+    "credit": "Pictured: Eric Heiden in 1979 · Photo: Koen Suyk / Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X056",
@@ -48359,7 +48683,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_1000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_eric_heiden.jpg",
+    "credit": "Pictured: Eric Heiden in 1979 · Photo: Koen Suyk / Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X057",
@@ -48428,7 +48755,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_20_kilometres_walk_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_yohann_diniz.jpg",
+    "credit": "Pictured: Yohann Diniz in 2014 · Photo: Paolo Salmaso from Roma, Italy · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X060",
@@ -48474,7 +48804,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/100_metres_breaststroke",
-   "image": null
+   "image": {
+    "file": "p_wiltrud_urselmann.jpg",
+    "credit": "Pictured: Wiltrud Urselmann in 1959 · Photo: Joop van Bilsen for Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X062",
@@ -48589,7 +48922,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Martin_Brodeur",
-   "image": null
+   "image": {
+    "file": "p_martin_brodeur.jpg",
+    "credit": "Pictured: Martin Brodeur in 2007 · Photo: JamesTeterenko · CC BY 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X067",
@@ -48727,7 +49063,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_20_kilometres_walk_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_john_mikaelsson.jpg",
+    "credit": "Pictured: John Mikaelsson in 1948 · Photo: Unknown photographer · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X073",
@@ -48888,7 +49227,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/200_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_federica_pellegrini.jpg",
+    "credit": "Pictured: Federica Pellegrini in 2009 · Photo: br1dotcom from Milan, Italy, cropped by Bill william compton · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X080",
@@ -48980,7 +49322,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/200_metres_breaststroke",
-   "image": null
+   "image": {
+    "file": "p_daniel_gyurta.jpg",
+    "credit": "Pictured: Dániel Gyurta in 2018 · Photo: Martin Rulsch , Wikimedia Commons · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X084",
@@ -49003,7 +49348,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/200_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_johnny_weissmuller.jpg",
+    "credit": "Pictured: Johnny Weissmuller in 1924 · Photo: Bain News Service, publisher · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X085",
@@ -49026,7 +49374,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Marathon_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_peres_jepchirchir.jpg",
+    "credit": "Pictured: Peres Jepchirchir in 2022 · Photo: Gr5555 · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X086",
@@ -49072,7 +49423,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/200_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_dawn_fraser.jpg",
+    "credit": "Pictured: Dawn Fraser in 1960 · Photo: Harry Pot for Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X088",
@@ -49256,7 +49610,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_high_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_javier_sotomayor.jpg",
+    "credit": "Pictured: Javier Sotomayor in 2009 · Photo: ZBOBZ · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X096",
@@ -49279,7 +49636,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_high_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_javier_sotomayor.jpg",
+    "credit": "Pictured: Javier Sotomayor in 2009 · Photo: ZBOBZ · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X097",
@@ -49302,7 +49662,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Marathon_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_chantal_langlace.jpg",
+    "credit": "Pictured: Chantal Langlacé in 2014 · Photo: Ouiouititeuf · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X098",
@@ -49394,7 +49757,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/200_metres_breaststroke",
-   "image": null
+   "image": {
+    "file": "p_ada_den_haan.jpg",
+    "credit": "Pictured: Ada den Haan in 1955 · Photo: Joop van Bilsen for Anefo · CC BY-SA 3.0 nl · Wikimedia Commons"
+   }
   },
   {
    "id": "X102",
@@ -49417,7 +49783,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/200_metres_breaststroke",
-   "image": null
+   "image": {
+    "file": "p_ada_den_haan.jpg",
+    "credit": "Pictured: Ada den Haan in 1955 · Photo: Joop van Bilsen for Anefo · CC BY-SA 3.0 nl · Wikimedia Commons"
+   }
   },
   {
    "id": "X103",
@@ -49509,7 +49878,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/50K_run_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_desiree_linden.jpg",
+    "credit": "Pictured: Desiree Linden in 2019 · Photo: Gr5555 · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X107",
@@ -49624,7 +49996,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/1000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_lina_radke.jpg",
+    "credit": "Pictured: Lina Radke in 1928 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X112",
@@ -49693,7 +50068,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/200_metres_breaststroke",
-   "image": null
+   "image": {
+    "file": "p_margery_hinton.jpg",
+    "credit": "Pictured: Margery Hinton in 1928 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X115",
@@ -49785,7 +50163,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/1000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_georgette_lenoir.jpg",
+    "credit": "Pictured: Georgette Lenoir in 1927 · Photo: Agence Rol · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X119",
@@ -49900,7 +50281,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_track_cycling_%E2%80%93_Women's_individual_pursuit",
-   "image": null
+   "image": {
+    "file": "p_sarah_hammer.jpg",
+    "credit": "Pictured: Sarah Hammer in 2010 · Photo: Steve Ryan . · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X124",
@@ -49923,7 +50307,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_track_cycling_%E2%80%93_Women's_individual_pursuit",
-   "image": null
+   "image": {
+    "file": "p_sarah_ulmer.jpg",
+    "credit": "Pictured: Sarah Ulmer in 2002 · Photo: © James F. Perry · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X125",
@@ -49946,7 +50333,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Don_Bradman",
-   "image": null
+   "image": {
+    "file": "p_don_bradman.jpg",
+    "credit": "Pictured: Don Bradman in 1930 · Photo: State Library of South Australia from Australia · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X126",
@@ -49969,7 +50359,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_3000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_sven_kramer.jpg",
+    "credit": "Pictured: Sven Kramer in 2007 · Photo: Ra-smit · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X127",
@@ -50038,7 +50431,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_ian_thorpe.jpg",
+    "credit": "Pictured: Ian Thorpe in 2012 · Photo: Doha Stadium Plus Qatar from Doha, Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X130",
@@ -50061,7 +50457,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_ian_thorpe.jpg",
+    "credit": "Pictured: Ian Thorpe in 2012 · Photo: Doha Stadium Plus Qatar from Doha, Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X131",
@@ -50153,7 +50552,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_3000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_johann_olav_koss.jpg",
+    "credit": "Pictured: Johann Olav Koss in 2007 · Photo: C. Hill · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "X135",
@@ -50176,7 +50578,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_federica_pellegrini.jpg",
+    "credit": "Pictured: Federica Pellegrini in 2009 · Photo: br1dotcom from Milan, Italy, cropped by Bill william compton · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X136",
@@ -50199,7 +50604,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_leon_marchand.jpg",
+    "credit": "Pictured: Léon Marchand in 2023 · Photo: Tanis Coralee Leonhardi · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X137",
@@ -50222,7 +50630,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_michael_phelps.jpg",
+    "credit": "Pictured: Michael Phelps in 2016 · Photo: Agência Brasil Fotografias · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X138",
@@ -50245,7 +50656,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Ted_Williams",
-   "image": null
+   "image": {
+    "file": "p_ted_williams.jpg",
+    "credit": "Pictured: Ted Williams in 1958 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X139",
@@ -50268,7 +50682,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_michael_phelps.jpg",
+    "credit": "Pictured: Michael Phelps in 2016 · Photo: Agência Brasil Fotografias · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X140",
@@ -50291,7 +50708,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_michael_phelps.jpg",
+    "credit": "Pictured: Michael Phelps in 2016 · Photo: Agência Brasil Fotografias · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X141",
@@ -50314,7 +50734,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_michael_phelps.jpg",
+    "credit": "Pictured: Michael Phelps in 2016 · Photo: Agência Brasil Fotografias · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X142",
@@ -50337,7 +50760,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_murray_rose.jpg",
+    "credit": "Pictured: Murray Rose in 2011 · Photo: Jodi Rose · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X143",
@@ -50590,7 +51016,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_katinka_hosszu.jpg",
+    "credit": "Pictured: Katinka Hosszú in 2015 · Photo: Oleg Bkhambri (Voltmetro), retouched by Rlevente · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X154",
@@ -50613,7 +51042,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_murray_rose.jpg",
+    "credit": "Pictured: Murray Rose in 2011 · Photo: Jodi Rose · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X155",
@@ -50636,7 +51068,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_ye_shiwen.jpg",
+    "credit": "Pictured: Ye Shiwen in 2014 · Photo: Korea.net / Korean Culture and Information Service (Jeon Han) · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X156",
@@ -50659,7 +51094,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_stephanie_rice.jpg",
+    "credit": "Pictured: Stephanie Rice in 2012 · Photo: Eva Rinaldi · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X157",
@@ -50705,7 +51143,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_stephanie_rice.jpg",
+    "credit": "Pictured: Stephanie Rice in 2012 · Photo: Eva Rinaldi · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X159",
@@ -50728,7 +51169,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_katie_hoff.jpg",
+    "credit": "Pictured: Katie Hoff in 2008 · Photo: Karen Blaha from Columbia, MO · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X160",
@@ -50751,7 +51195,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_yana_klochkova.jpg",
+    "credit": "Pictured: Yana Klochkova in 2010 · Photo: Russianname · CC BY-SA 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X161",
@@ -50797,7 +51244,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_petra_schneider.jpg",
+    "credit": "Pictured: Petra Schneider in 1979 · Photo: Bogaerts, Rob / Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X163",
@@ -50866,7 +51316,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_petra_schneider.jpg",
+    "credit": "Pictured: Petra Schneider in 1979 · Photo: Bogaerts, Rob / Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X166",
@@ -50935,7 +51388,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/2000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_jakob_ingebrigtsen.jpg",
+    "credit": "Pictured: Jakob Ingebrigtsen in 2017 · Photo: Chell Hill · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X169",
@@ -51027,7 +51483,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_birgit_treiber.jpg",
+    "credit": "Pictured: Birgit Treiber in 1979 · Photo: Bogaerts, Rob / Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X173",
@@ -51142,7 +51601,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_bill_sefton.jpg",
+    "credit": "Pictured: Bill Sefton in 1935 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X178",
@@ -51303,7 +51765,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Cy_Young",
-   "image": null
+   "image": {
+    "file": "p_cy_young.jpg",
+    "credit": "Pictured: Cy Young in 1911 · Photo: American Tobacco Company · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X185",
@@ -51349,7 +51814,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_john_pennel.jpg",
+    "credit": "Pictured: John Pennel in 1965 · Photo: Unknown (Associated Press) · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X187",
@@ -51372,7 +51840,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_donna_de_varona.jpg",
+    "credit": "Pictured: Donna de Varona in 1961 · Photo: Harry Pot · CC BY-SA 3.0 nl · Wikimedia Commons"
+   }
   },
   {
    "id": "X188",
@@ -51418,7 +51889,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/2000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_gunder_hagg.jpg",
+    "credit": "Pictured: Gunder Hägg in 1943 · Photo: Unknown · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X190",
@@ -51510,7 +51984,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/2000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_francine_niyonsaba.jpg",
+    "credit": "Pictured: Francine Niyonsaba in 2016 · Photo: Fernando Frazão/Agência Brasil · CC BY 3.0 br · Wikimedia Commons"
+   }
   },
   {
    "id": "X194",
@@ -51556,7 +52033,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/2000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_genzebe_dibaba.jpg",
+    "credit": "Pictured: Genzebe Dibaba in 2016 · Photo: Ajuntament de Sabadell · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X196",
@@ -51602,7 +52082,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Eddy_Merckx",
-   "image": null
+   "image": {
+    "file": "p_eddy_merckx.jpg",
+    "credit": "Pictured: Eddy Merckx in 2012 · Photo: Doha Stadium Plus Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X198",
@@ -51694,7 +52177,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_individual_medley",
-   "image": null
+   "image": {
+    "file": "p_donna_de_varona.jpg",
+    "credit": "Pictured: Donna de Varona in 1961 · Photo: Harry Pot · CC BY-SA 3.0 nl · Wikimedia Commons"
+   }
   },
   {
    "id": "X202",
@@ -51717,7 +52203,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/2000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_john_zander.jpg",
+    "credit": "Pictured: John Zander in 1915 · Photo: Bain · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X203",
@@ -51832,7 +52321,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_martha_norelius.jpg",
+    "credit": "Pictured: Martha Norelius in 1928 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X208",
@@ -51947,7 +52439,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Women's_long_jump_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_kinue_hitomi.jpg",
+    "credit": "Pictured: Kinue Hitomi in 1928 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X213",
@@ -51993,7 +52488,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_gertrude_ederle.jpg",
+    "credit": "Pictured: Gertrude Ederle · Photo: Bain News Service, publisher · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X215",
@@ -52108,7 +52606,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sergey_bubka.jpg",
+    "credit": "Pictured: Sergey Bubka in 2013 · Photo: Vinod Divakaran / Doha Stadium Plus Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X220",
@@ -52131,7 +52632,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_sven_kramer.jpg",
+    "credit": "Pictured: Sven Kramer in 2007 · Photo: Ra-smit · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X221",
@@ -52177,7 +52681,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sergey_bubka.jpg",
+    "credit": "Pictured: Sergey Bubka in 2013 · Photo: Vinod Divakaran / Doha Stadium Plus Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X223",
@@ -52200,7 +52707,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_sven_kramer.jpg",
+    "credit": "Pictured: Sven Kramer in 2007 · Photo: Ra-smit · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X224",
@@ -52223,7 +52733,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_sven_kramer.jpg",
+    "credit": "Pictured: Sven Kramer in 2007 · Photo: Ra-smit · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X225",
@@ -52246,7 +52759,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sergey_bubka.jpg",
+    "credit": "Pictured: Sergey Bubka in 2013 · Photo: Vinod Divakaran / Doha Stadium Plus Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X226",
@@ -52269,7 +52785,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_sergey_bubka.jpg",
+    "credit": "Pictured: Sergey Bubka in 2013 · Photo: Vinod Divakaran / Doha Stadium Plus Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X227",
@@ -52315,7 +52834,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/400_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_hilda_james.jpg",
+    "credit": "Pictured: Hilda James in 1925 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X229",
@@ -52384,7 +52906,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_armand_duplantis.jpg",
+    "credit": "Pictured: Armand Duplantis in 2026 · Photo: Quejaytee · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X232",
@@ -52407,7 +52932,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_armand_duplantis.jpg",
+    "credit": "Pictured: Armand Duplantis in 2026 · Photo: Quejaytee · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X233",
@@ -52430,7 +52958,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Men's_pole_vault_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_armand_duplantis.jpg",
+    "credit": "Pictured: Armand Duplantis in 2026 · Photo: Quejaytee · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X234",
@@ -52499,7 +53030,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_johann_olav_koss.jpg",
+    "credit": "Pictured: Johann Olav Koss in 2007 · Photo: C. Hill · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "X237",
@@ -52522,7 +53056,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_johann_olav_koss.jpg",
+    "credit": "Pictured: Johann Olav Koss in 2007 · Photo: C. Hill · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "X238",
@@ -52545,7 +53082,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_johann_olav_koss.jpg",
+    "credit": "Pictured: Johann Olav Koss in 2007 · Photo: C. Hill · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "X239",
@@ -52591,7 +53131,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_johann_olav_koss.jpg",
+    "credit": "Pictured: Johann Olav Koss in 2007 · Photo: C. Hill · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "X241",
@@ -52614,7 +53157,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_world_best_times_in_rowing",
-   "image": null
+   "image": {
+    "file": "p_niels_torre.jpg",
+    "credit": "Pictured: Niels Torre in 2022 · Photo: Ailura · CC BY-SA 3.0 at · Wikimedia Commons"
+   }
   },
   {
    "id": "X242",
@@ -52660,7 +53206,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_johann_olav_koss.jpg",
+    "credit": "Pictured: Johann Olav Koss in 2007 · Photo: C. Hill · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "X244",
@@ -52706,7 +53255,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_geir_karlstad.jpg",
+    "credit": "Pictured: Geir Karlstad · Photo: UweFan · CC BY 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X246",
@@ -52752,7 +53304,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_women",
-   "image": null
+   "image": {
+    "file": "p_claudia_pechstein.jpg",
+    "credit": "Pictured: Claudia Pechstein in 2022 · Photo: Sandro Halank , Wikimedia Commons · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X248",
@@ -52821,7 +53376,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Tom_Brady",
-   "image": null
+   "image": {
+    "file": "p_tom_brady.jpg",
+    "credit": "Pictured: Tom Brady in 2024 · Photo: Barcex · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X251",
@@ -53005,7 +53563,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_women",
-   "image": null
+   "image": {
+    "file": "p_claudia_pechstein.jpg",
+    "credit": "Pictured: Claudia Pechstein in 2022 · Photo: Sandro Halank , Wikimedia Commons · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X259",
@@ -53028,7 +53589,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_piet_kleine.jpg",
+    "credit": "Pictured: Piet Kleine in 1973 · Photo: Bert Verhoeff for Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X260",
@@ -53120,7 +53684,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Shane_Warne",
-   "image": null
+   "image": {
+    "file": "p_shane_warne.jpg",
+    "credit": "Pictured: Shane Warne in 2015 · Photo: Tourism Victoria from Australia · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X264",
@@ -53212,7 +53779,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Babe_Ruth",
-   "image": null
+   "image": {
+    "file": "p_babe_ruth.jpg",
+    "credit": "Pictured: Babe Ruth in 1920 · Photo: Irwin, La Broad, & Pudlin. · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X268",
@@ -53258,7 +53828,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Ironman_Triathlon",
-   "image": null
+   "image": {
+    "file": "p_magnus_ditlev.jpg",
+    "credit": "Pictured: Magnus Ditlev in 2025 · Photo: Jürgen Matern · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X270",
@@ -53419,7 +53992,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_women",
-   "image": null
+   "image": {
+    "file": "p_andrea_schone.jpg",
+    "credit": "Pictured: Andrea Schöne in 1983 · Photo: Rob Bogaerts for Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X277",
@@ -53488,7 +54064,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_grant_hackett.jpg",
+    "credit": "Pictured: Grant Hackett in 2017 · Photo: PoolSafely · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X280",
@@ -53511,7 +54090,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_ian_thorpe.jpg",
+    "credit": "Pictured: Ian Thorpe in 2012 · Photo: Doha Stadium Plus Qatar from Doha, Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X281",
@@ -53534,7 +54116,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_5000_m_speed_skating_women",
-   "image": null
+   "image": {
+    "file": "p_andrea_schone.jpg",
+    "credit": "Pictured: Andrea Schöne in 1983 · Photo: Rob Bogaerts for Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X282",
@@ -53557,7 +54142,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_ian_thorpe.jpg",
+    "credit": "Pictured: Ian Thorpe in 2012 · Photo: Doha Stadium Plus Qatar from Doha, Qatar · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X283",
@@ -53626,7 +54214,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Cy_Young",
-   "image": null
+   "image": {
+    "file": "p_cy_young.jpg",
+    "credit": "Pictured: Cy Young in 1911 · Photo: American Tobacco Company · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X286",
@@ -53649,7 +54240,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_vladimir_salnikov.jpg",
+    "credit": "Pictured: Vladimir Salnikov in 2021 · Photo: Министерство спорта Республики Татарстан · CC BY 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X287",
@@ -53695,7 +54289,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_vladimir_salnikov.jpg",
+    "credit": "Pictured: Vladimir Salnikov in 2021 · Photo: Министерство спорта Республики Татарстан · CC BY 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X289",
@@ -53741,7 +54338,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/Muttiah_Muralitharan",
-   "image": null
+   "image": {
+    "file": "p_muttiah_muralitharan.jpg",
+    "credit": "Pictured: Muttiah Muralitharan in 2006 · Photo: Rae Allen from Brisbane, Australia · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X291",
@@ -53787,7 +54387,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_katie_ledecky.jpg",
+    "credit": "Pictured: Katie Ledecky in 2024 · Photo: Mledecky · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X293",
@@ -53810,7 +54413,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_katie_ledecky.jpg",
+    "credit": "Pictured: Katie Ledecky in 2024 · Photo: Mledecky · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X294",
@@ -53856,7 +54462,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_katie_ledecky.jpg",
+    "credit": "Pictured: Katie Ledecky in 2024 · Photo: Mledecky · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X296",
@@ -53879,7 +54488,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_rebecca_adlington.jpg",
+    "credit": "Pictured: Rebecca Adlington in 2012 · Photo: Richard Gillin from St Albans, UK · CC BY-SA 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X297",
@@ -53925,7 +54537,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_janet_evans.jpg",
+    "credit": "Pictured: Janet Evans in 2014 · Photo: PoolSafely · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X299",
@@ -53948,7 +54563,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_janet_evans.jpg",
+    "credit": "Pictured: Janet Evans in 2014 · Photo: PoolSafely · CC BY 2.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X300",
@@ -54270,7 +54888,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/3000_metres_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_hannes_kolehmainen.jpg",
+    "credit": "Pictured: Hannes Kolehmainen in 1920 · Photo: Agence Rol · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X314",
@@ -54523,7 +55144,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_murray_rose.jpg",
+    "credit": "Pictured: Murray Rose in 2011 · Photo: Jodi Rose · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X325",
@@ -54546,7 +55170,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/3000_metres_steeplechase_world_record_progression",
-   "image": null
+   "image": {
+    "file": "p_ruth_jebet.jpg",
+    "credit": "Pictured: Ruth Jebet in 2016 · Photo: Citizen59 · CC BY 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X326",
@@ -54707,7 +55334,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_debbie_meyer.jpg",
+    "credit": "Pictured: Debbie Meyer in 1968 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X333",
@@ -54730,7 +55360,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_john_konrads.jpg",
+    "credit": "Pictured: John Konrads in 1960 · Photo: Anefo, Nationaal Archief · CC BY-SA 3.0 nl · Wikimedia Commons"
+   }
   },
   {
    "id": "X334",
@@ -54753,7 +55386,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_george_breen.jpg",
+    "credit": "Pictured: George Breen in 1956 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X335",
@@ -54776,7 +55412,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_debbie_meyer.jpg",
+    "credit": "Pictured: Debbie Meyer in 1968 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X336",
@@ -54799,7 +55438,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_debbie_meyer.jpg",
+    "credit": "Pictured: Debbie Meyer in 1968 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X337",
@@ -54845,7 +55487,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_track_cycling_%E2%80%93_Men's_flying_200_m_time_trial",
-   "image": null
+   "image": {
+    "file": "p_francois_pervis.jpg",
+    "credit": "Pictured: Francois Pervis in 2015 · Photo: Nicola · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X339",
@@ -54868,7 +55513,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_debbie_meyer.jpg",
+    "credit": "Pictured: Debbie Meyer in 1968 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X340",
@@ -55075,7 +55723,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/List_of_world_records_in_track_cycling",
-   "image": null
+   "image": {
+    "file": "p_lea_friedrich.jpg",
+    "credit": "Pictured: Lea Friedrich in 2020 · Photo: Nicola · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X349",
@@ -55236,7 +55887,10 @@
    "fame": 2,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_johnny_weissmuller.jpg",
+    "credit": "Pictured: Johnny Weissmuller in 1924 · Photo: Bain News Service, publisher · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X356",
@@ -55259,7 +55913,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_mary_kok.jpg",
+    "credit": "Pictured: Mary Kok in 1961 · Photo: Harry Pot for Anefo ]] · CC BY-SA 3.0 nl · Wikimedia Commons"
+   }
   },
   {
    "id": "X357",
@@ -55328,7 +55985,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_arne_borg.jpg",
+    "credit": "Pictured: Arne Borg in 1928 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X360",
@@ -55351,7 +56011,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_track_cycling_%E2%80%93_Women's_flying_200_m_time_trial",
-   "image": null
+   "image": {
+    "file": "p_kristina_vogel.jpg",
+    "credit": "Pictured: Kristina Vogel in 2022 · Photo: Nicola · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X361",
@@ -55374,7 +56037,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_valeria_gyenge.jpg",
+    "credit": "Pictured: Valéria Gyenge in 1956 · Photo: Unknown author · CC BY-SA 3.0 nl · Wikimedia Commons"
+   }
   },
   {
    "id": "X362",
@@ -55512,7 +56178,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_track_cycling_%E2%80%93_Women's_flying_200_m_time_trial",
-   "image": null
+   "image": {
+    "file": "p_tianshi_zhong.jpg",
+    "credit": "Pictured: Tianshi Zhong in 2018 · Photo: Nicola · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X368",
@@ -55604,7 +56273,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_track_cycling_%E2%80%93_Women's_flying_200_m_time_trial",
-   "image": null
+   "image": {
+    "file": "p_erika_salumae.jpg",
+    "credit": "Pictured: Erika Salumäe in 1992 · Photo: Jaan Künnap · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X372",
@@ -55627,7 +56299,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_track_cycling_%E2%80%93_Women's_flying_200_m_time_trial",
-   "image": null
+   "image": {
+    "file": "p_erika_salumae.jpg",
+    "credit": "Pictured: Erika Salumäe in 1992 · Photo: Jaan Künnap · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X373",
@@ -55650,7 +56325,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_track_cycling_%E2%80%93_Women's_flying_200_m_time_trial",
-   "image": null
+   "image": {
+    "file": "p_erika_salumae.jpg",
+    "credit": "Pictured: Erika Salumäe in 1992 · Photo: Jaan Künnap · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X374",
@@ -55765,7 +56443,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_track_cycling_%E2%80%93_Women's_flying_200_m_time_trial",
-   "image": null
+   "image": {
+    "file": "p_erika_salumae.jpg",
+    "credit": "Pictured: Erika Salumäe in 1992 · Photo: Jaan Künnap · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X379",
@@ -55857,7 +56538,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_track_cycling_%E2%80%93_Women's_flying_200_m_time_trial",
-   "image": null
+   "image": {
+    "file": "p_erika_salumae.jpg",
+    "credit": "Pictured: Erika Salumäe in 1992 · Photo: Jaan Künnap · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X383",
@@ -55880,7 +56564,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_track_cycling_%E2%80%93_Women's_flying_200_m_time_trial",
-   "image": null
+   "image": {
+    "file": "p_erika_salumae.jpg",
+    "credit": "Pictured: Erika Salumäe in 1992 · Photo: Jaan Künnap · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X384",
@@ -55995,7 +56682,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_10,000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_nils_van_der_poel.jpg",
+    "credit": "Pictured: Nils van der Poel in 2022 · Photo: Frankie Fouganthin · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X389",
@@ -56018,7 +56708,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_10,000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_graeme_fish.jpg",
+    "credit": "Pictured: Graeme Fish in 2022 · Photo: Bjarteh · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X390",
@@ -56041,7 +56734,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_martha_norelius.jpg",
+    "credit": "Pictured: Martha Norelius in 1928 · Photo: Unknown author · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X391",
@@ -56064,7 +56760,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_10,000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_sven_kramer.jpg",
+    "credit": "Pictured: Sven Kramer in 2007 · Photo: Ra-smit · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X392",
@@ -56087,7 +56786,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_10,000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_sven_kramer.jpg",
+    "credit": "Pictured: Sven Kramer in 2007 · Photo: Ra-smit · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X393",
@@ -56156,7 +56858,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/800_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_gertrude_ederle.jpg",
+    "credit": "Pictured: Gertrude Ederle · Photo: Bain News Service, publisher · Public domain · Wikimedia Commons"
+   }
   },
   {
    "id": "X396",
@@ -56202,7 +56907,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_10,000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_johann_olav_koss.jpg",
+    "credit": "Pictured: Johann Olav Koss in 2007 · Photo: C. Hill · CC BY 2.5 · Wikimedia Commons"
+   }
   },
   {
    "id": "X398",
@@ -56225,7 +56933,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_10,000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_geir_karlstad.jpg",
+    "credit": "Pictured: Geir Karlstad · Photo: UweFan · CC BY 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X399",
@@ -56248,7 +56959,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_10,000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_tomas_gustafson.jpg",
+    "credit": "Pictured: Tomas Gustafson · Photo: UweFan · CC BY 3.0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X400",
@@ -56294,7 +57008,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/World_record_progression_10,000_m_speed_skating_men",
-   "image": null
+   "image": {
+    "file": "p_sten_stensen.jpg",
+    "credit": "Pictured: Sten Stensen in 1976 · Photo: Rob Bogaerts for Anefo · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X402",
@@ -56363,7 +57080,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/1500_metres_freestyle",
-   "image": null
+   "image": {
+    "file": "p_katie_ledecky.jpg",
+    "credit": "Pictured: Katie Ledecky in 2024 · Photo: Mledecky · CC0 · Wikimedia Commons"
+   }
   },
   {
    "id": "X405",
@@ -56386,7 +57106,10 @@
    "fame": 4,
    "fameSub": 1,
    "sourceURL": "https://en.wikipedia.org/wiki/50_metres_backstroke",
-   "image": null
+   "image": {
+    "file": "p_kliment_kolesnikov.jpg",
+    "credit": "Pictured: Kliment Kolesnikov in 2018 · Photo: Mauricio V. Genta · CC BY-SA 4.0 · Wikimedia Commons"
+   }
   }
  ]
 }

@@ -132,4 +132,20 @@ struct PhotoFramingTests {
             #expect(rect.maxX >= frame.width - 0.001 && rect.maxY >= frame.height - 0.001)
         }
     }
+
+    @Test func tallPhotoOnAWideCardIsAPanelAtTheRightEdge() throws {
+        let card = CGSize(width: 1600, height: 900)
+        let panel = try #require(PhotoFraming.panel(image: CGSize(width: 1000, height: 1500), on: card))
+        #expect(panel == CGRect(x: 1000, y: 0, width: 600, height: 900))
+    }
+
+    @Test func photosThatAreNotTallOrCardsThatAreNotWideFillTheCard() {
+        let wide = CGSize(width: 1600, height: 900)
+        #expect(PhotoFraming.panel(image: CGSize(width: 1500, height: 1000), on: wide) == nil)
+        #expect(PhotoFraming.panel(image: CGSize(width: 1000, height: 1000), on: wide) == nil)
+        #expect(PhotoFraming.panel(image: CGSize(width: 1000, height: 1500), on: CGSize(width: 900, height: 1600)) == nil)
+        // Too wide to be a panel: more than six tenths of a 4:3 card.
+        #expect(PhotoFraming.panel(image: CGSize(width: 1000, height: 1100), on: CGSize(width: 1200, height: 900)) == nil)
+        #expect(PhotoFraming.panel(image: .zero, on: wide) == nil)
+    }
 }
